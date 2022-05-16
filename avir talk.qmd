@@ -513,7 +513,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@kufel2018; @kieu2019; @groll2017b; @ouatas2017]
 :::
 
-## Are the theoretical differences clinically important?
+## Does TDM support claims of less potent <br> CYP3A4 inhibition?
 
 ![](Menna_midostraurin.png){fig-align="center"}
 
@@ -561,17 +561,21 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ::: columns
 ::: {.column width="50%"}
--   **Posaconazole experience**
--   [Grade III/IV liver injury with tablet and IV formulations (9%)]{style="color:red;"}
--   Primary hyperbilirubinemia
--   Higher frequency in patients with serum levels \> 1,830 ng/mL
+-   **Posaconazole experience** <br> **(previous study with tablet/IV)**
+    -   [Grade III/IV liver injury with tablet and IV formulations (9%)]{style="color:red;"}
+
+    -   Primary hyperbilirubinemia
+
+    -   Higher frequency in patients with serum levels \> 1,830 ng/mL
 :::
 
 ::: {.column width="50%"}
 -   **Isavuconazole (current study)**
--   [Grade 1 transaminitis (2.7%)]{style="color:red;"}
--   Grade 2 elevated T. bilirubin (1.3%)
--   No elevations in QTc detected vs. baselines at 10 days
+    -   [Grade 1 transaminitis (2.7%)]{style="color:red;"}
+
+    -   Grade 2 elevated T. bilirubin (1.3%)
+
+    -   No elevations in QTc detected vs. baselines at 10 days
 :::
 
 <br>
@@ -609,7 +613,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
--   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the treatment scenario
+-   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario
 -   Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult
 -   Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies
 
