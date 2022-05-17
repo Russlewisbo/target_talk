@@ -73,15 +73,15 @@ May 17, 2022
 
 ##  {.smaller}
 
-+----------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
-| Disease  | Current/ future therapy\*                                                                                                  | 5-10 year survival |
-+==========+============================================================================================================================+====================+
-| **CML**  | [BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)]{style="color:red;"}, alloHSCT | 85-90%             |
-+----------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
-| **CLL**  | [Ibrutinib, other BTKIs (acalabrutinib, zanubrutinib, pirtobrutinib)]{style="color:red;"}                                  | 80-90% +           |
-+----------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
-| **MDS**  | [Parenteral HMAs, oral HMAs, venetoclax, others]{style="color:red;"}                                                       | 40% +              |
-+----------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
++---------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
+| Disease | Current/ future therapy\*                                                                                                  | 5-10 year survival |
++=========+============================================================================================================================+====================+
+| **CML** | [BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)]{style="color:red;"}, alloHSCT | 85-90%             |
++---------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
+| **CLL** | [Ibrutinib, other BTKIs (acalabrutinib, zanubrutinib, pirtobrutinib)]{style="color:red;"}                                  | 80-90% +           |
++---------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
+| **MDS** | [Parenteral HMAs, oral HMAs, venetoclax, others]{style="color:red;"}                                                       | 40% +              |
++---------+----------------------------------------------------------------------------------------------------------------------------+--------------------+
 
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
@@ -565,13 +565,15 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 :::
 
 ::: fragment
-"**Conclusion:** Isavuconazole was well tolerated and facilitated use of the most potent molecular-targeted agents in remission-induction chemotherapy with excellent short term survival and high remission rates."
+"Isavuconazole was well tolerated and facilitated use of the most potent molecular-targeted agents in remission-induction chemotherapy with excellent short term survival and high remission rates."
+:::
 :::
 
-<br> [@bose2020; @tverdek2017]
+::: aside
+[@bose2020;@Tverdek2017-gh]
 :::
 
-## 
+## dd
 
 ![](bose5.png){fig-align="center"}
 
@@ -605,8 +607,8 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
--   **Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario**
--   **Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult**
+-   **Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario** <br>
+-   **Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult** <br>
 -   **Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies**
 
 ## Thank you for your attention!
