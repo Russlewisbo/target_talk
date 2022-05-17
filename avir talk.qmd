@@ -350,7 +350,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 ![](registry.png){fig-align="center"}
 
 ::: aside
-[@ostroskey-zeichnerluis2021J]
+[@ostroskey-zeichnerl2021J]
 :::
 
 ## Triazole safety
@@ -440,10 +440,12 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
--   Hepatobiliary disorders (VOR-16% vs. ISA-9%, p=0.016)
--   Visual disturbances (VOR-27% vs. ISA-15%, p=0.002)
--   Skin or subcutaneous tissue (VOR-42% vs. ISA-33%, p=0.037
 -   **Overall drug-related AE (VOR-60% vs. ISA-42%, p\<0.001)**
+    -   Hepatobiliary disorders (VOR-16% vs. ISA-9%, p=0.016)
+
+    -   Visual disturbances (VOR-27% vs. ISA-15%, p=0.002)
+
+    -   Skin or subcutaneous tissue (VOR-42% vs. ISA-33%, p=0.037
 
 ::: aside
 [@maertens2016]
@@ -457,21 +459,21 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@marty2014]
 :::
 
-## Isavuconazole drug interaction potential
+## Isavuconazole drug interaction potential in HSCT
 
 <br>
 
-+-----------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| Drug                        | Pharmacokinetic change                      | Initial management                                                                                                    |
-+=============================+=============================================+=======================================================================================================================+
-| Tacrolimus                  | ↑ AUC 1.8-3xfold                            | 40-50% reduction in tacrolimus dose, TDM. Some studies suggest no empiric dose reduction was required                 |
-|                             |                                             |                                                                                                                       |
-|                             | ↑ C~max~ 1.4-2.8xfold                       |                                                                                                                       |
-+-----------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| Prednisone/ <br>Prednislone | ↑ AUC (8%) minimal                          | No dose adjustments recommended                                                                                       |
-+-----------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| Ruxolitinib                 | ↑AUC and C~max~ by an average of 27% and 8% | Although dose reduction is recommended for strong CYP3A4 inhibitors, no dose reduction recommended with isavuconazole |
-+-----------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
++--------------------------------+---------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Drug                           | Pharmacokinetic change                      | Initial management                                                                                                                                |
++================================+=============================================+===================================================================================================================================================+
+| **Tacrolimus**                 | ↑ AUC 1.8-3xfold                            | 40-50% reduction in tacrolimus dose, TDM. <br>Some case series suggest no empiric dose reduction was required                                     |
+|                                |                                             |                                                                                                                                                   |
+|                                | ↑ C~max~ 1.4-2.8xfold                       |                                                                                                                                                   |
++--------------------------------+---------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Prednisone or Prednisolone** | ↑ AUC (8%) minimal                          | No dose adjustments recommended                                                                                                                   |
++--------------------------------+---------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Ruxolitinib**                | ↑AUC and C~max~ by an average of 27% and 8% | Although dose reduction is recommended for strong CYP3A4 inhibitors, no dose reduction recommended with moderate inhibitors such as isavuconazole |
++--------------------------------+---------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ::: aside
 [@kufel2018; @kieu2019; @groll2017b; @ouatas2017]
@@ -481,17 +483,17 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-+------------------+-------------------------+--------------------------------------------------------------+
-| Drug             | Pharmacokinetic change  | Initial management                                           |
-+==================+=========================+==============================================================+
-| **Venetoclax**   | ↑AUC 2-3.9xfold         | Dose reduction of venetoclax by 50%                          |
-+------------------+-------------------------+--------------------------------------------------------------+
-| **Midostaurin**  | ↑AUC 1.44xfold higher   | No dose reduction recommended for moderate CYP3A4 inhibitors |
-+------------------+-------------------------+--------------------------------------------------------------+
-| **Gilteritinib** | ↑AUC 1.4xfold; <br>     | No dose reduction recommended for moderate CYP3A4 inhibitors |
-|                  |                         |                                                              |
-|                  | ↑C~max~ 1.2-fold higher |                                                              |
-+------------------+-------------------------+--------------------------------------------------------------+
++------------------+-------------------------+----------------------------------------------------------------------------------------------+
+| Drug             | Pharmacokinetic change  | Initial management                                                                           |
++==================+=========================+==============================================================================================+
+| **Venetoclax**   | ↑AUC 2-3.9xfold         | Dose reduction of venetoclax by 50%                                                          |
++------------------+-------------------------+----------------------------------------------------------------------------------------------+
+| **Midostaurin**  | ↑AUC 1.44xfold higher   | Avoid strong CYP3A4 inhibitors, no dose reduction recommended for moderate CYP3A4 inhibitors |
++------------------+-------------------------+----------------------------------------------------------------------------------------------+
+| **Gilteritinib** | ↑AUC 1.4xfold; <br>     | Avoid strong CYP3A4 inhibitors, no dose reduction recommended for moderate CYP3A4 inhibitors |
+|                  |                         |                                                                                              |
+|                  | ↑C~max~ 1.2-fold higher |                                                                                              |
++------------------+-------------------------+----------------------------------------------------------------------------------------------+
 
 ::: aside
 [@kufel2018; @kieu2019; @groll2017b; @ouatas2017]
@@ -550,7 +552,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
     -   Primary hyperbilirubinemia
 
-    -   Higher frequency in patients with serum levels \> 1,830 ng/mL
+    -   Higher frequency in patients with POS serum levels \> 1,830 ng/mL
 :::
 
 ::: {.column width="50%"}
@@ -562,9 +564,11 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
     -   No elevations in QTc detected vs. baselines at 10 days
 :::
 
+::: {.fragment}
+"**Conclusion:** Isavuconazole was well tolerated and facilitated use of the most potent molecular-targeted agents in remission-induction chemotherapy with excellent short term survival and high remission rates."
+:::
 <br>
-
-[@bose2020]
+[@bose2020;@tverdek2017]
 :::
 
 ## 
@@ -587,19 +591,25 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
+::: {.fragment}
 "This is the first antifungal prophylaxis study in this select population of patients with leukemia, specifically, those patients being treated with the BCL-2 antagonist venetoclax and fms3-like tyrosine kinase 3 (FLT3) inhibitors.
+:::
 
 <br>
 
+::: {.fragment}
 "Clinicians should take away from these studies the fact that many of the advanced-generation azoles can be used interchangeably in times of prophylaxis when they are needed."
+:::
+
+
 
 ## Summary {background-image="bonemarrow.png"}
 
 <br>
 
--   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario
--   Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult
--   Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies
+-   **Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario**
+-   **Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult**
+-   **Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies**
 
 ## Thank you for your attention!
 
