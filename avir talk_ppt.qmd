@@ -36,7 +36,9 @@ November 16, 2022
 -   What are the risks of toxicity and drug interactions with these newer therapies?
 -   Is their a unique role for isavuconazole vs. other triazoles?
 
-## The cure of leukemia through the optimist's prism
+## The cure of leukemia through the optimist's prism {.smaller}
+
+<br> <br>
 
 +----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+
 | Disease                                | Current/future therapies\*                                                                                                                                     | Survival (5 year) |
@@ -58,7 +60,9 @@ HMA- hypomethylating agent
 \*some therapies investigational or not licensed in Canada
 :::
 
-## 
+## The cure of leukemia through the optimist's prism {.smaller}
+
+<br> <br>
 
 +---------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------+
 | Disease                                                                   | Current/ future therapy\*                                                                                                                   | 5-10 year survival |
@@ -82,9 +86,9 @@ HMA-hypomethylating agent
 \*some therapies investigational or not licensed in Canada
 :::
 
-## 
+## The cure of leukemia through the optimist's prism {.smaller}
 
-<br>
+<br> <br>
 
 +---------+---------------------------------------------------------------------------------------------------------------------------+--------------------+
 | Disease | Current/ future therapy\*                                                                                                 | 5-10 year survival |
@@ -182,94 +186,6 @@ BTKI- Bruton tyrosine kinase inhibitors, HMA- hypomethylating agent
 [@bruggemann2022; @stemler2022J]
 :::
 
-## Managing fungal infection risks with <br> novel therapies for AML
-
-### EHA consensus recommendations
-
-<br>
-
--   Systematic review of the literature, recommendations developed using GRADE framework (4977 publications evaluated)
--   Outcomes evaluated:
-    -   Incidence of invasive fungal disease (IFD)
-    -   Prolongation of hospitalization
-    -   Days spent in ICU/mortality associated with IFD
-    -   Potential DDIs
--   **Evidence-based recommendations were developed for hypomethylating agents (HMAs), midostaurin, venetoclax-HMA combinations**
-
-::: aside
-[@stemler2022J]
-:::
-
-## Summary of EHA recommendations-1
-
-<br>
-
--   **Hypomethylating agent monotherapy:**
-    -   Standard use or prophylaxis not recommended
-    -   Risk of IFI increased in patients with neutropenia at onset of treatment, prior intensive chemotherapy → conditional recommendation for prophylaxis
--   **FLT3 inhibitors (midostaurin, gilteritinib)**
-    -   Antifungal prophylaxis recommended during induction chemotherapy
-    -   Conditional recommendation for prophylaxis during consolidation in patients with risk factors (prior IFI, prolonged neutropenia)
-    -   Lack of clear medical guidance for managing drug interactions
-    -   Close monitoring favoured over empiric FLT-3 inhibitor dose reduction
-
-::: aside
-[@stemler2022J]
-:::
-
-## Summary of EHA recommendations-2
-
-<br>
-
--   **Venetoclax**
-    -   Risk of IFI increased in patients with neutropenia at onset of treatment, prior intensive chemotherapy, or prolonged neutropenia with venetoclax
-    -   Conditional recommendation to administer prophylaxis
-    -   Careful management of drug interactions with triazoles
-
-::: aside
-[@stemler2022J]
-:::
-
-## Venetoclax dose-adjustment with triazoles
-
-<br>
-
-<center>
-
-Venetoclax + hypo-methylating agents for AML;
-
-Co-administration with posaconazole ↑ venetoclax AUC 8-fold
-
-</center>
-
-<br>
-
-+------------+---------------+---------------------------------------+-------------------------------------+
-| **Day**    | **Full dose** | **Moderate**[^1] **CYP3A4 inhibitor** | **Strong**[^2] **CYP3A4 inhibitor** |
-+------------+---------------+---------------------------------------+-------------------------------------+
-| Day 1      | 100 mg        | 50 mg                                 | 10 mg                               |
-+------------+---------------+---------------------------------------+-------------------------------------+
-| Day 2      | 200 mg        | 100 mg                                | 20 mg                               |
-+------------+---------------+---------------------------------------+-------------------------------------+
-| Day 3      | 400 mg        | 200 mg                                | 50 mg                               |
-+------------+---------------+---------------------------------------+-------------------------------------+
-| Day 4-28   | 400 mg        | 200 mg                                | 70 mg                               |
-+------------+---------------+---------------------------------------+-------------------------------------+
-
-::: aside
-[@stemler2022J; @bhatnagar2021J]
-:::
-
-## Triazole prophylaxis increases duration of thrombocytopenia but not neutropenia or infections with dose-adjusted venetoclax
-
-<br>
-
-![](venetoclax_Rausch.png){fig-align="center"}
-
-::: aside
-[@rausch2019]
-:::
-
 ## CYP450 Interactions: The achilles heel of triazoles
 
 <center>75-85% of patients receiving mold-active triazoles have serious drug interactions</center>
@@ -298,6 +214,46 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ::: aside
 [@megias-vericat2020J]
+:::
+
+## Venetoclax dose-adjustment with triazoles
+
+<br>
+
+<center>
+
+Venetoclax + hypo-methylating agents for AML;
+
+Co-administration with posaconazole ↑ venetoclax AUC 8-fold
+
+</center>
+
+<br>
+
++-------------+---------------+-------------------------------+-----------------------------+
+| Day         | **Full dose** | **Moderate CYP3A4 inhibitor** | **Strong CYP3A4 inhibitor** |
++-------------+---------------+-------------------------------+-----------------------------+
+| Day 1       | 100 mg        | 50 mg                         | 10 mg                       |
++-------------+---------------+-------------------------------+-----------------------------+
+| Day 2       | 200 mg        | 100 mg                        | 20 mg                       |
++-------------+---------------+-------------------------------+-----------------------------+
+| Day 3       | 400 mg        | 200 mg                        | 50 mg                       |
++-------------+---------------+-------------------------------+-----------------------------+
+| Day 4-28    | 400 mg        | 200 mg                        | 70 mg                       |
++-------------+---------------+-------------------------------+-----------------------------+
+
+::: aside
+[@stemler2022J; @bhatnagar2021J] <br> moderate- fluconazole, isavuconazole; strong- voriconazole, posaconazole
+:::
+
+## Triazole prophylaxis increases duration of thrombocytopenia but not neutropenia or infections with dose-adjusted venetoclax
+
+<br>
+
+![](venetoclax_Rausch.png){fig-align="center"}
+
+::: aside
+[@rausch2019]
 :::
 
 ## Toxicities of small-molecule kinase inhibitors
@@ -340,10 +296,10 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-![](registry.png){fig-align="center"}
+![](Ostrosky.png){fig-align="center" width="1200"}
 
 ::: aside
-[@ostroskey-zeichnerl2021]
+[@ostroskey-zeichnerl2021J]
 :::
 
 ## Triazole safety
@@ -361,7 +317,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 -   IFI mortality rates were similar for all agents ranging between 1.1-1.8%
 
 ::: aside
-[@ostroskey-zeichnerl2021]
+[@ostroskey-zeichnerl2021J]
 :::
 
 ## What makes isavuconazole <br>(isavuconazonium) unique?
@@ -470,7 +426,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 +-------------------------------------+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
 
 ::: aside
-[@kufel2018;@kieu2019; @groll2017b;@ouatas2017]
+[@kufel2018; @kieu2019; @groll2017b; @ouatas2017]
 :::
 
 ## Isavuconazole drug interaction potential
@@ -517,9 +473,9 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@bose2020]
 :::
 
-## 
+##  {.smaller}
 
-![](bose3.png){fig-align="center" width="800"}
+![](bose3.png){fig-align="center" width="500"}
 
 ::: aside
 [@bose2020]
@@ -537,25 +493,25 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-<br>
+:::: {.columns}
 
-::: columns
-::: {.column width="50%"}
--   **Posaconazole experience**
--   [Grade III/IV liver injury with tablet and IV formulations (9%)]{style="color:red;"}
--   Primary hyperbilirubinemia
--   Higher frequency in patients with serum levels \> 1,830 ng/mL
+:::{.column width="50%"}
+- **Posaconazole experience** 
+- [Grade III/IV liver injury with tablet and IV formulations (9%)]{style="color:red;"} 
+- Primary hyperbilirubinemia
+- Higher frequency in patients with serum levels \> 1,830 ng/mL
 :::
 
 ::: {.column width="50%"}
--   **Isavuconazole (current study)**
--   [Grade 1 transaminitis (2.7%)]{style="color:red;"}
--   Grade 2 elevated T. bilirubin (1.3%)
--   No elevations in QTc detected vs. baselines at 10 days
+- **Isavuconazole (current study)** 
+- [Grade 1 transaminitis (2.7%)]{style="color:red;"} 
+- Grade 2 elevated T. bilirubin (1.3%) 
+- No elevations in QTc detected vs. baselines at 10 days
 :::
 
-<br>
+::::
 
+::: aside
 [@bose2020]
 :::
 
@@ -567,11 +523,9 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-<div>
-
+::: aside
 [@Young2021-jx]
-
-</div>
+:::
 
 ## Jo-Anne H. Young, *Clin Infect Dis 2021*
 
@@ -585,17 +539,15 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 "Clinicians should take away from these studies the fact that many of the advanced-generation azoles can be used interchangeably in times of prophylaxis when they are needed."
 
-<div>
-
+::: aside
 [@Young2021-jx]
-
-</div>
+:::
 
 ## Summary {background-image="bonemarrow.png"}
 
 <br>
 
--   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the treatment scenario
+-   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario
 -   Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult
 -   Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies
 
@@ -612,7 +564,3 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 <br>
 
 All figures created by R. Lewis using www.biorender.com <br> <br>
-
-[^1]: fluconazole, isavuconazole
-
-[^2]: voriconazole, posaconazole
