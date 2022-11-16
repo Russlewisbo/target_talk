@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-  <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.165">
+<script src="avir talk_ppt_files/libs/clipboard/clipboard.min.js"></script>
+<script src="avir talk_ppt_files/libs/quarto-html/tabby.min.js"></script>
+<script src="avir talk_ppt_files/libs/quarto-html/popper.min.js"></script>
+<script src="avir talk_ppt_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="avir talk_ppt_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="avir talk_ppt_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="avir talk_ppt_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.2.258">
+
   <title>avir-talk_ppt</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -11,10 +18,15 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
@@ -36,14 +48,6 @@
     }
   </style>
   <link rel="stylesheet" href="avir talk_ppt_files/libs/revealjs/dist/theme/quarto.css" id="theme">
-
-  <script src="avir talk_ppt_files/libs/clipboard/clipboard.min.js"></script>
-  <script src="avir talk_ppt_files/libs/quarto-html/tabby.min.js"></script>
-  <script src="avir talk_ppt_files/libs/quarto-html/popper.min.js"></script>
-  <script src="avir talk_ppt_files/libs/quarto-html/tippy.umd.min.js"></script>
-  <link href="avir talk_ppt_files/libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="avir talk_ppt_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet">
-  <link id="quarto-text-highlighting-styles" href="avir talk_ppt_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
   <link href="avir talk_ppt_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="avir talk_ppt_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="avir talk_ppt_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -59,7 +63,7 @@
   }
 
   .callout.callout-style-simple { 
-    padding: 0em 0.7em;
+    padding: 0em 0.5em;
     border-left: solid #acacac .3rem;
     border-right: solid 1px silver;
     border-top: solid 1px silver;
@@ -170,8 +174,7 @@
     display: none !important;
   }
 
-  .callout.callout-captioned .callout-body > :last-child,
-  .callout.callout-captioned .callout-body > div > :last-child {
+  .callout.callout-captioned .callout-body > .callout-content > :last-child {
     margin-bottom: 0.5rem;
   }
 
@@ -337,7 +340,7 @@
     }
   </style>
 </head>
-<body>
+<body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
@@ -348,11 +351,11 @@
 <h3 id="implications-for-antifungal-therapy">Implications for antifungal therapy</h3>
 <p><br> <br></p>
 <center>
-<p>Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Medical and Surgical Sciences <br> Infectious Diseases Unit- IRCCS S. Orsola University Hospitals <br> Alma Mater Studiorum Università di Bologna <br> Bologna, Italy</p>
+Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Medical and Surgical Sciences <br> Infectious Diseases Unit- IRCCS S. Orsola University Hospitals <br> Alma Mater Studiorum Università di Bologna <br> Bologna, Italy
 </center>
 
 <aside><div>
-<p>May 17, 2022</p>
+<p>November 16, 2022</p>
 </div></aside></section>
 <section id="agenda" class="slide level2">
 <h2>Agenda</h2>
@@ -365,8 +368,7 @@
 </section>
 <section id="the-cure-of-leukemia-through-the-optimists-prism" class="slide level2">
 <h2>The cure of leukemia through the optimist’s prism</h2>
-<p><br></p>
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 18%">
 <col style="width: 72%">
@@ -392,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><strong>AML (core binding factor positive)</strong></td>
-<td>FLAG-<span style="color:red;">GO</span> ± IDA, alloHSCT if MRD positive, if indicated, oral <span style="color:red;">AZA/HMA with venetoclax or FLT3/IDH or menin inhibitors</span></td>
+<td>FLAG-<span style="color:red;">GO</span> ± IDA, alloHCT if MRD positive, if indicated, oral <span style="color:red;">AZA/HMA with venetoclax or FLT3/IDH or menin inhibitors</span></td>
 <td>80-90%+</td>
 </tr>
 <tr class="even">
@@ -404,12 +406,13 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="kantarjian2021 kantarjian2022J">(<a href="#/ref-kantarjian2021" role="doc-biblioref" onclick="return false;">H. Kantarjian et al. 2021</a>; <a href="#/ref-kantarjian2022J" role="doc-biblioref" onclick="return false;">H. M. Kantarjian et al. 2022</a>)</span> <br></p>
+<p><span class="citation" data-cites="kantarjian2021 kantarjian2022J">(<a href="#/references" role="doc-biblioref" onclick="">H. Kantarjian et al. 2021</a>; <a href="#/references" role="doc-biblioref" onclick="">H. M. Kantarjian et al. 2022</a>)</span> <br></p>
+<p>HMA- hypomethylating agent</p>
 <p>*some therapies investigational or not licensed in Canada</p>
 </div></aside></section>
 <section id="section" class="slide level2">
 <h2></h2>
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 31%">
 <col style="width: 59%">
@@ -452,16 +455,17 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="kantarjian2021 kantarjian2022J">(<a href="#/ref-kantarjian2021" role="doc-biblioref" onclick="return false;">H. Kantarjian et al. 2021</a>; <a href="#/ref-kantarjian2022J" role="doc-biblioref" onclick="return false;">H. M. Kantarjian et al. 2022</a>)</span> <br></p>
+<p><span class="citation" data-cites="kantarjian2021 kantarjian2022J">(<a href="#/references" role="doc-biblioref" onclick="">H. Kantarjian et al. 2021</a>; <a href="#/references" role="doc-biblioref" onclick="">H. M. Kantarjian et al. 2022</a>)</span> <br></p>
+<p>HMA-hypomethylating agent</p>
 <p>*some therapies investigational or not licensed in Canada</p>
 </div></aside></section>
 <section id="section-1" class="slide level2">
 <h2></h2>
 <p><br></p>
-<table>
+<table style="width:99%;">
 <colgroup>
 <col style="width: 6%">
-<col style="width: 80%">
+<col style="width: 79%">
 <col style="width: 13%">
 </colgroup>
 <thead>
@@ -474,7 +478,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>CML</strong></td>
-<td><span style="color:red;">BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)</span>, alloHSCT</td>
+<td><span style="color:red;">BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)</span>, alloHCT</td>
 <td>85-90%</td>
 </tr>
 <tr class="even">
@@ -491,7 +495,8 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="kantarjian2021">(<a href="#/ref-kantarjian2021" role="doc-biblioref" onclick="return false;">H. Kantarjian et al. 2021</a>)</span> <br></p>
+<p><span class="citation" data-cites="kantarjian2021">(<a href="#/references" role="doc-biblioref" onclick="">H. Kantarjian et al. 2021</a>)</span> <br></p>
+<p>BTKI- Bruton tyrosine kinase inhibitors, HMA- hypomethylating agent</p>
 <p>*some therapies investigational or not licensed in Canada</p>
 </div></aside></section>
 <section id="how-is-invasive-fungal-disease-risk-altered-by-targeted-therapies" class="slide level2" data-background-image="bonemarrow.png">
@@ -500,10 +505,14 @@
 <section id="unexpected-consequences-of-targeted-therapy" class="slide level2">
 <h2>Unexpected consequences of targeted therapy?</h2>
 <p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="burger_NEJM.png" width="3028"></p>
+</figure>
+</div>
 
-
-<img data-src="burger_NEJM.png" width="3028" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="burger2015 chamilos2018">(<a href="#/ref-burger2015" role="doc-biblioref" onclick="return false;">Burger et al. 2015</a>; <a href="#/ref-chamilos2018" role="doc-biblioref" onclick="return false;">Chamilos, Lionakis, and Kontoyiannis 2018</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="burger2015 chamilos2018">(<a href="#/references" role="doc-biblioref" onclick="">Burger et al. 2015</a>; <a href="#/references" role="doc-biblioref" onclick="">Chamilos, Lionakis, and Kontoyiannis 2018</a>)</span></p>
 </div></aside></section>
 <section id="ibrutinib-associated-aspergillosis" class="slide level2">
 <h2>Ibrutinib-associated aspergillosis</h2>
@@ -529,14 +538,14 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="ghez2018 chamilos2018">(<a href="#/ref-ghez2018" role="doc-biblioref" onclick="return false;">Ghez et al. 2018</a>; <a href="#/ref-chamilos2018" role="doc-biblioref" onclick="return false;">Chamilos, Lionakis, and Kontoyiannis 2018</a>)</span></p>
+<p><span class="citation" data-cites="ghez2018 chamilos2018">(<a href="#/references" role="doc-biblioref" onclick="">Ghez et al. 2018</a>; <a href="#/references" role="doc-biblioref" onclick="">Chamilos, Lionakis, and Kontoyiannis 2018</a>)</span></p>
 </div></aside></section>
 <section id="fungal-infections-in-patients-receiving-ibrutinib-for-lymphoid-cancers" class="slide level2">
 <h2>Fungal infections in patients receiving <br> ibrutinib for lymphoid cancers</h2>
 <div class="columns">
 <div class="column" style="width:60%;">
 <center>
-<p>Data from MSKCC, New York</p>
+Data from MSKCC, New York
 </center>
 <div>
 <p><img data-src="ibrutinib_onset.png"></p>
@@ -556,7 +565,7 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="varughese2018 frei2020J">(<a href="#/ref-varughese2018" role="doc-biblioref" onclick="return false;">Varughese et al. 2018</a>; <a href="#/ref-frei2020J" role="doc-biblioref" onclick="return false;">Frei et al. 2020</a>)</span></p>
+<p><span class="citation" data-cites="varughese2018 frei2020J">(<a href="#/references" role="doc-biblioref" onclick="">Varughese et al. 2018</a>; <a href="#/references" role="doc-biblioref" onclick="">Frei et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="section-2" class="slide level2">
 <h2></h2>
@@ -568,7 +577,7 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="bruggemann2022 stemler2022J">(<a href="#/ref-bruggemann2022" role="doc-biblioref" onclick="return false;">R. J. Brüggemann et al. 2022</a>; <a href="#/ref-stemler2022J" role="doc-biblioref" onclick="return false;">Stemler et al. 2022</a>)</span></p>
+<p><span class="citation" data-cites="bruggemann2022 stemler2022J">(<a href="#/references" role="doc-biblioref" onclick="">R. J. Brüggemann et al. 2022</a>; <a href="#/references" role="doc-biblioref" onclick="">Stemler et al. 2022</a>)</span></p>
 </div></aside></section>
 <section id="managing-fungal-infection-risks-with-novel-therapies-for-aml" class="slide level2">
 <h2>Managing fungal infection risks with <br> novel therapies for AML</h2>
@@ -587,7 +596,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="stemler2022J">(<a href="#/ref-stemler2022J" role="doc-biblioref" onclick="return false;">Stemler et al. 2022</a>)</span></p>
+<p><span class="citation" data-cites="stemler2022J">(<a href="#/references" role="doc-biblioref" onclick="">Stemler et al. 2022</a>)</span></p>
 </div></aside></section>
 <section id="summary-of-eha-recommendations-1" class="slide level2">
 <h2>Summary of EHA recommendations-1</h2>
@@ -608,7 +617,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="stemler2022J">(<a href="#/ref-stemler2022J" role="doc-biblioref" onclick="return false;">Stemler et al. 2022</a>)</span></p>
+<p><span class="citation" data-cites="stemler2022J">(<a href="#/references" role="doc-biblioref" onclick="">Stemler et al. 2022</a>)</span></p>
 </div></aside></section>
 <section id="summary-of-eha-recommendations-2" class="slide level2">
 <h2>Summary of EHA recommendations-2</h2>
@@ -623,7 +632,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="stemler2022J">(<a href="#/ref-stemler2022J" role="doc-biblioref" onclick="return false;">Stemler et al. 2022</a>)</span></p>
+<p><span class="citation" data-cites="stemler2022J">(<a href="#/references" role="doc-biblioref" onclick="">Stemler et al. 2022</a>)</span></p>
 </div></aside></section>
 <section id="venetoclax-dose-adjustment-with-triazoles" class="slide level2">
 <h2>Venetoclax dose-adjustment with triazoles</h2>
@@ -633,12 +642,12 @@
 <p>Co-administration with posaconazole ↑ venetoclax AUC 8-fold</p>
 </center>
 <p><br></p>
-<table>
+<table style="width:98%;">
 <colgroup>
+<col style="width: 11%">
 <col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 35%">
-<col style="width: 35%">
+<col style="width: 36%">
+<col style="width: 34%">
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -675,39 +684,47 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="stemler2022J bhatnagar2021J">(<a href="#/ref-stemler2022J" role="doc-biblioref" onclick="return false;">Stemler et al. 2022</a>; <a href="#/ref-bhatnagar2021J" role="doc-biblioref" onclick="return false;">Bhatnagar et al. 2021</a>)</span></p>
-</div><ol class="aside-footnotes"><li id="fn1" role="doc-endnote"><p>fluconazole, isavuconazole</p></li><li id="fn2" role="doc-endnote"><p>voriconazole, posaconazole</p></li></ol></aside></section>
+<p><span class="citation" data-cites="stemler2022J bhatnagar2021J">(<a href="#/references" role="doc-biblioref" onclick="">Stemler et al. 2022</a>; <a href="#/references" role="doc-biblioref" onclick="">Bhatnagar et al. 2021</a>)</span></p>
+</div><ol class="aside-footnotes"><li id="fn1"><p>fluconazole, isavuconazole</p></li><li id="fn2"><p>voriconazole, posaconazole</p></li></ol></aside></section>
 <section id="triazole-prophylaxis-increases-duration-of-thrombocytopenia-but-not-neutropenia-or-infections-with-dose-adjusted-venetoclax" class="slide level2">
 <h2>Triazole prophylaxis increases duration of thrombocytopenia but not neutropenia or infections with dose-adjusted venetoclax</h2>
 <p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="venetoclax_Rausch.png"></p>
+</figure>
+</div>
 
-
-<img data-src="venetoclax_Rausch.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="rausch2019">(<a href="#/ref-rausch2019" role="doc-biblioref" onclick="return false;">Rausch et al. 2019</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="rausch2019">(<a href="#/references" role="doc-biblioref" onclick="">Rausch et al. 2019</a>)</span></p>
 </div></aside></section>
 <section id="cyp450-interactions-the-achilles-heel-of-triazoles" class="slide level2">
 <h2>CYP450 Interactions: The achilles heel of triazoles</h2>
 <center>
-<p>75-85% of patients receiving mold-active triazoles have serious drug interactions</p>
+75-85% of patients receiving mold-active triazoles have serious drug interactions
 </center>
-
-<img data-src="cyp_interactions.png" width="600" class="r-stretch quarto-figure-center"><p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="cyp_interactions.png" width="800"></p>
+</figure>
+</div>
+<p><br></p>
 
 <aside><div>
-<p><span class="citation" data-cites="bruggemann2009a andes2016">(<a href="#/ref-bruggemann2009a" role="doc-biblioref" onclick="return false;">R. J. M. Brüggemann et al. 2009</a>; <a href="#/ref-andes2016" role="doc-biblioref" onclick="return false;">Andes et al. 2016</a>)</span></p>
+<p><span class="citation" data-cites="bruggemann2009a andes2016">(<a href="#/references" role="doc-biblioref" onclick="">R. J. M. Brüggemann et al. 2009</a>; <a href="#/references" role="doc-biblioref" onclick="">Andes et al. 2016</a>)</span></p>
 </div></aside></section>
 <section id="pkpd-properties-of-small-molecule-kinase-inhibitors" class="slide level2 smaller">
 <h2>PK/PD Properties of Small Molecule Kinase Inhibitors</h2>
 <p><br> <br></p>
-<table style="width:100%;">
+<table style="width:98%;">
 <colgroup>
 <col style="width: 9%">
 <col style="width: 12%">
 <col style="width: 12%">
-<col style="width: 14%">
 <col style="width: 13%">
+<col style="width: 12%">
 <col style="width: 24%">
-<col style="width: 13%">
+<col style="width: 12%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -752,14 +769,18 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="megias-vericat2020J">(<a href="#/ref-megias-vericat2020J" role="doc-biblioref" onclick="return false;">Megías-Vericat et al. 2020</a>)</span></p>
+<p><span class="citation" data-cites="megias-vericat2020J">(<a href="#/references" role="doc-biblioref" onclick="">Megías-Vericat et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="toxicities-of-small-molecule-kinase-inhibitors" class="slide level2">
 <h2>Toxicities of small-molecule kinase inhibitors</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="targeted%20therapy%20toxicities.png" width="800"></p>
+</figure>
+</div>
 
-
-<img data-src="targeted%20therapy%20toxicities.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="wang2020a">(<a href="#/ref-wang2020a" role="doc-biblioref" onclick="return false;">Wang and Baron 2020</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="wang2020a">(<a href="#/references" role="doc-biblioref" onclick="">Wang and Baron 2020</a>)</span></p>
 </div></aside></section>
 <section id="just-avoid-triazoles" class="slide level2">
 <h2>Just avoid triazoles?</h2>
@@ -769,38 +790,41 @@
 <section id="the-problems-with-echinocandin-prophylaxis" class="slide level2">
 <h2>The problems with echinocandin prophylaxis</h2>
 <p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="echinocandin.png" width="800"></p>
+</figure>
+</div>
 
-
-<img data-src="echinocandin.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="gomes2014">(<a href="#/ref-gomes2014" role="doc-biblioref" onclick="return false;">Gomes et al. 2014</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="gomes2014">(<a href="#/references" role="doc-biblioref" onclick="">Gomes et al. 2014</a>)</span></p>
 </div></aside></section>
 <section id="is-their-a-unique-role-for-isavuconazole-vs.-other-triazoles" class="slide level2" data-background-image="bonemarrow.png">
 <h2><br> <br> <br> <br> <br> Is their a unique role for isavuconazole <br> vs.&nbsp;other triazoles?</h2>
 </section>
-
-<section id="pharmacokinetic-complexity-of-voriconazole" class="slide level2">
-<h2>Pharmacokinetic complexity of voriconazole</h2>
-<p><br></p>
-
-
-<img data-src="voriconazole%20PK.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="trifilio2014">(<a href="#/ref-trifilio2014" role="doc-biblioref" onclick="return false;">Trifilio and Mehta 2014</a>)</span></p>
-</div></aside></section>
 <section id="triazole-toxicities" class="slide level2">
 <h2>Triazole toxicities</h2>
 <p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="triazole%20toxicity.png"></p>
+</figure>
+</div>
 
-
-<img data-src="triazole%20toxicity.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="Lewis2011805 johnson2021">(<a href="#/ref-Lewis2011805" role="doc-biblioref" onclick="return false;">Lewis 2011</a>; <a href="#/ref-johnson2021" role="doc-biblioref" onclick="return false;">Johnson 2021</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="Lewis2011805 johnson2021">(<a href="#/references" role="doc-biblioref" onclick="">Lewis 2011</a>; <a href="#/references" role="doc-biblioref" onclick="">Johnson 2021</a>)</span></p>
 </div></aside></section>
-<section id="section-4" class="slide level2">
+<section id="section-3" class="slide level2">
 <h2></h2>
 <p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="registry.png"></p>
+</figure>
+</div>
 
-
-<img data-src="registry.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="ostroskey-zeichnerluis2021J">(<a href="#/ref-ostroskey-zeichnerluis2021J" role="doc-biblioref" onclick="return false;"><strong>ostroskey-zeichnerluis2021J?</strong></a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="ostroskey-zeichnerl2021">(<a href="#/references" role="doc-biblioref" onclick=""><strong>ostroskey-zeichnerl2021?</strong></a>)</span></p>
 </div></aside></section>
 <section id="triazole-safety" class="slide level2">
 <h2>Triazole safety</h2>
@@ -820,7 +844,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="ostroskey-zeichnerl2021J">(<a href="#/ref-ostroskey-zeichnerl2021J" role="doc-biblioref" onclick="return false;">Ostroskey-Zeichner, L et al. 2021</a>)</span></p>
+<p><span class="citation" data-cites="ostroskey-zeichnerl2021">(<a href="#/references" role="doc-biblioref" onclick=""><strong>ostroskey-zeichnerl2021?</strong></a>)</span></p>
 </div></aside></section>
 <section id="what-makes-isavuconazole-isavuconazonium-unique" class="slide level2">
 <h2>What makes isavuconazole <br>(isavuconazonium) unique?</h2>
@@ -830,7 +854,7 @@
 <div>
 <div class="quarto-figure quarto-figure-left">
 <figure>
-<p><img data-src="isavuconazole.png"></p>
+<p><img data-src="isavuconazole.png" width="600"></p>
 </figure>
 </div>
 </div>
@@ -852,7 +876,7 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="johnson2021 maertens2016">(<a href="#/ref-johnson2021" role="doc-biblioref" onclick="return false;">Johnson 2021</a>; <a href="#/ref-maertens2016" role="doc-biblioref" onclick="return false;">Maertens et al. 2016</a>)</span></p>
+<p><span class="citation" data-cites="johnson2021 maertens2016">(<a href="#/references" role="doc-biblioref" onclick="">Johnson 2021</a>; <a href="#/references" role="doc-biblioref" onclick="">Maertens et al. 2016</a>)</span></p>
 </div></aside></section>
 <section id="qt-prolongation-risk-with-triazoles" class="slide level2">
 <h2>QT prolongation risk with triazoles</h2>
@@ -874,15 +898,19 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="keirns2017">(<a href="#/ref-keirns2017" role="doc-biblioref" onclick="return false;">Keirns et al. 2017</a>)</span></p>
+<p><span class="citation" data-cites="keirns2017">(<a href="#/references" role="doc-biblioref" onclick="">Keirns et al. 2017</a>)</span></p>
 </div></aside></section>
 <section id="isavuconazole-versus-voriconazole-for-primary-treatment-of-invasive-mould-disease-caused-by-aspergillus-and-other-filamentous-fungi-secure" class="slide level2 smaller">
 <h2>Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by <em>Aspergillus</em> and other filamentous fungi (SECURE)</h2>
-
-<img data-src="Secure.png" width="400" class="r-stretch quarto-figure-center"><p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="Secure.png" width="700"></p>
+</figure>
+</div>
+<p><br></p>
 
 <aside><div>
-<p><span class="citation" data-cites="maertens2016">(<a href="#/ref-maertens2016" role="doc-biblioref" onclick="return false;">Maertens et al. 2016</a>)</span></p>
+<p><span class="citation" data-cites="maertens2016">(<a href="#/references" role="doc-biblioref" onclick="">Maertens et al. 2016</a>)</span></p>
 </div></aside></section>
 <section id="treatment-emergent-adverse-effects-in-the-secure-trial" class="slide level2">
 <h2>Treatment-emergent adverse effects <br> in the SECURE trial</h2>
@@ -895,23 +923,28 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="maertens2016">(<a href="#/ref-maertens2016" role="doc-biblioref" onclick="return false;">Maertens et al. 2016</a>)</span></p>
+<p><span class="citation" data-cites="maertens2016">(<a href="#/references" role="doc-biblioref" onclick="">Maertens et al. 2016</a>)</span></p>
 </div></aside></section>
 <section id="isavuconazole-treatment-for-mucormycosis-a-single-arm-open-label-case-control-study-vital" class="slide level2">
 <h2>Isavuconazole treatment for mucormycosis: <br> a single-arm, open-label, case-control study (VITAL)</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="isavuconazole_Mucor.png" width="800"></p>
+</figure>
+</div>
 
-
-<img data-src="isavuconazole_Mucor.png" width="600" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="marty2014">(<a href="#/ref-marty2014" role="doc-biblioref" onclick="return false;">Marty et al. 2014</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="marty2014">(<a href="#/references" role="doc-biblioref" onclick="">Marty et al. 2014</a>)</span></p>
 </div></aside></section>
 <section id="isavuconazole-drug-interaction-potential" class="slide level2">
 <h2>Isavuconazole drug interaction potential</h2>
 <p><br></p>
-<table>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 15%">
-<col style="width: 23%">
-<col style="width: 61%">
+<col style="width: 18%">
+<col style="width: 22%">
+<col style="width: 58%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -922,18 +955,18 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>Tacrolimus</td>
+<td><strong>Tacrolimus</strong></td>
 <td><p>↑ AUC 1.8-3xfold</p>
 <p>↑ C<sub>max</sub> 1.4-2.8xfold</p></td>
 <td>40-50% reduction in tacrolimus dose, TDM. Some studies suggest no empiric dose reduction was required</td>
 </tr>
 <tr class="even">
-<td>Prednisone/ <br>Prednislone</td>
+<td><strong>Prednisone/</strong> <br><strong>Prednislone</strong></td>
 <td>↑ AUC (8%) minimal</td>
 <td>No dose adjustments recommended</td>
 </tr>
 <tr class="odd">
-<td>Ruxolitinib</td>
+<td></td>
 <td>↑AUC and C<sub>max</sub> by an average of 27% and 8%</td>
 <td>Although dose reduction is recommended for strong CYP3A4 inhibitors, no dose reduction recommended with isavuconazole</td>
 </tr>
@@ -941,16 +974,18 @@
 </table>
 
 <aside><div>
-<p>[<span class="citation" data-cites="kufel2018">Kufel et al. (<a href="#/ref-kufel2018" role="doc-biblioref" onclick="return false;">2018</a>)</span>;<span class="citation" data-cites="kieu2019">Kieu et al. (<a href="#/ref-kieu2019" role="doc-biblioref" onclick="return false;">2019</a>)</span>; <span class="citation" data-cites="groll2017b">Groll et al. (<a href="#/ref-groll2017b" role="doc-biblioref" onclick="return false;">2017</a>)</span>; <span class="citation" data-cites="ouatas2017">Ouatas et al. (<a href="#/ref-ouatas2017" role="doc-biblioref" onclick="return false;">2017</a>)</span>;]</p>
+
+</div><div>
+<p><span class="citation" data-cites="kufel2018 kieu2019 groll2017b ouatas2017">(<a href="#/references" role="doc-biblioref" onclick="">Kufel et al. 2018</a>; <a href="#/references" role="doc-biblioref" onclick="">Kieu et al. 2019</a>; <a href="#/references" role="doc-biblioref" onclick="">Groll et al. 2017</a>; <a href="#/references" role="doc-biblioref" onclick="">Ouatas et al. 2017</a>)</span></p>
 </div></aside></section>
 <section id="isavuconazole-drug-interaction-potential-1" class="slide level2">
 <h2>Isavuconazole drug interaction potential</h2>
 <p><br></p>
-<table>
+<table style="width:99%;">
 <colgroup>
 <col style="width: 17%">
-<col style="width: 24%">
-<col style="width: 58%">
+<col style="width: 23%">
+<col style="width: 57%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -980,42 +1015,62 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="kufel2018 kieu2019 groll2017b ouatas2017">(<a href="#/ref-kufel2018" role="doc-biblioref" onclick="return false;">Kufel et al. 2018</a>; <a href="#/ref-kieu2019" role="doc-biblioref" onclick="return false;">Kieu et al. 2019</a>; <a href="#/ref-groll2017b" role="doc-biblioref" onclick="return false;">Groll et al. 2017</a>; <a href="#/ref-ouatas2017" role="doc-biblioref" onclick="return false;">Ouatas et al. 2017</a>)</span></p>
+<p><span class="citation" data-cites="kufel2018 kieu2019 groll2017b ouatas2017">(<a href="#/references" role="doc-biblioref" onclick="">Kufel et al. 2018</a>; <a href="#/references" role="doc-biblioref" onclick="">Kieu et al. 2019</a>; <a href="#/references" role="doc-biblioref" onclick="">Groll et al. 2017</a>; <a href="#/references" role="doc-biblioref" onclick="">Ouatas et al. 2017</a>)</span></p>
 </div></aside></section>
 <section id="are-the-theoretical-differences-clinically-important" class="slide level2">
 <h2>Are the theoretical differences clinically important?</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="Menna_midostraurin.png"></p>
+</figure>
+</div>
 
+<aside><div>
+<p><span class="citation" data-cites="Menna2021-mb">(<a href="#/references" role="doc-biblioref" onclick="">Menna et al. 2021</a>)</span></p>
+</div></aside></section>
+<section id="section-4" class="slide level2">
+<h2></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="Bose%20study.png"></p>
+</figure>
+</div>
 
-<img data-src="Menna_midostraurin.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="Menna2021-mb">(<a href="#/ref-Menna2021-mb" role="doc-biblioref" onclick="return false;">Menna et al. 2021</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="bose2020">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="section-5" class="slide level2">
 <h2></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="bose2.png"></p>
+</figure>
+</div>
 
-
-<img data-src="Bose%20study.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="bose2020">(<a href="#/ref-bose2020" role="doc-biblioref" onclick="return false;">Bose et al. 2020</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="bose2020">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="section-6" class="slide level2">
 <h2></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="bose3.png" width="800"></p>
+</figure>
+</div>
 
-
-<img data-src="bose2.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="bose2020">(<a href="#/ref-bose2020" role="doc-biblioref" onclick="return false;">Bose et al. 2020</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="bose2020">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="section-7" class="slide level2">
 <h2></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="bose4.png"></p>
+</figure>
+</div>
 
-
-<img data-src="bose3.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="bose2020">(<a href="#/ref-bose2020" role="doc-biblioref" onclick="return false;">Bose et al. 2020</a>)</span></p>
-</div></aside></section>
-<section id="section-8" class="slide level2">
-<h2></h2>
-
-
-<img data-src="bose4.png" class="r-stretch quarto-figure-center"><aside><div>
-<p><span class="citation" data-cites="bose2020">(<a href="#/ref-bose2020" role="doc-biblioref" onclick="return false;">Bose et al. 2020</a>)</span></p>
+<aside><div>
+<p><span class="citation" data-cites="bose2020">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al. 2020</a>)</span></p>
 </div></aside></section>
 <section id="isavuconazole-tolerability" class="slide level2">
 <h2>Isavuconazole tolerability</h2>
@@ -1036,16 +1091,16 @@
 <li class="fragment">Grade 2 elevated T. bilirubin (1.3%)</li>
 <li class="fragment">No elevations in QTc detected vs.&nbsp;baselines at 10 days</li>
 </ul>
-</div><p><br></p><p><span class="citation" data-cites="bose2020">(<a href="#/ref-bose2020" role="doc-biblioref" onclick="return false;">Bose et al. 2020</a>)</span></p>
+</div><p><br></p><p><span class="citation" data-cites="bose2020">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al. 2020</a>)</span></p>
 </div>
 </section>
-<section id="section-9" class="slide level2">
+<section id="section-8" class="slide level2">
 <h2></h2>
 
 <img data-src="bose5.png" class="r-stretch quarto-figure-center"><p><br></p>
 <p><br></p>
 <div>
-<p><span class="citation" data-cites="Young2021-jx">(<a href="#/ref-Young2021-jx" role="doc-biblioref" onclick="return false;">Young 2021</a>)</span></p>
+<p><span class="citation" data-cites="Young2021-jx">(<a href="#/references" role="doc-biblioref" onclick="">Young 2021</a>)</span></p>
 </div>
 </section>
 <section id="jo-anne-h.-young-clin-infect-dis-2021" class="slide level2">
@@ -1055,6 +1110,9 @@
 <p>“This is the first antifungal prophylaxis study in this select population of patients with leukemia, specifically, those patients being treated with the BCL-2 antagonist venetoclax and fms3-like tyrosine kinase 3 (FLT3) inhibitors.</p>
 <p><br></p>
 <p>“Clinicians should take away from these studies the fact that many of the advanced-generation azoles can be used interchangeably in times of prophylaxis when they are needed.”</p>
+<div>
+<p><span class="citation" data-cites="Young2021-jx">(<a href="#/references" role="doc-biblioref" onclick="">Young 2021</a>)</span></p>
+</div>
 </section>
 <section id="summary" class="slide level2" data-background-image="bonemarrow.png">
 <h2>Summary</h2>
@@ -1075,8 +1133,7 @@
 <h2>References</h2>
 <p><br></p>
 <p>All figures created by R. Lewis using www.biorender.com <br> <br></p>
-
-<img src="unibo_red.png" class="slide-logo r-stretch"><div class="footer footer-default">
+<div class="footer footer-default">
 
 </div>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
@@ -1144,22 +1201,16 @@ Marty, Francisco M, John R Perfect, Oliver A Cornely, Kathleen Mullane, Galia Ra
 Megías-Vericat, Juan Eduardo, Antonio Solana-Altabella, Octavio Ballesta-López, David Martínez-Cuadrón, and Pau Montesinos. 2020. <span>“Drug-Drug Interactions of Newly Approved Small Molecule Inhibitors for Acute Myeloid Leukemia.”</span> <em>Annals of Hematology</em> 99 (9): 1989–2007. <a href="https://doi.org/10.1007/s00277-020-04186-0">https://doi.org/10.1007/s00277-020-04186-0</a>.
 </div>
 <div id="ref-Menna2021-mb" class="csl-entry" role="doc-biblioentry">
-Menna, Pierantonio, Emanuela Salvatorelli, Maria Ilaria Del Principe, Salvatore Perrone, Livio Pagano, Francesco Marchesi, and Giorgio Minotti. 2021. <span>“Choosing Antifungals for the <span>Midostaurin-Treated</span> Patient: <span>Does Cyp3a4</span> Outweigh Recommendations? <span>A</span> Brief Insight from Real Life.”</span> <em>Chemotherapy</em> 66 (1-2): 47–52. <a href="https://doi.org/10.1159/000513989">https://doi.org/10.1159/000513989</a>.
-</div>
-<div id="ref-ostroskey-zeichnerl2021J" class="csl-entry" role="doc-biblioentry">
-Ostroskey-Zeichner, L, MH Nguyen, Bubalo, J., Alexander, B.J., M. H. Miceli, P. Pappas, Song, Y, and Thompson, G.R. 2021. <span>“Multicenter Registry of Patients Recieving Systemic Mould-Active Triazoles for Treatment or Prophylaxis of Fungal Infections.”</span> In <em>31st <span>European Conference</span> on <span>Clinical Microbiology</span> and <span>Infectious Diseases</span></em>. <span>Online</span>.
+Menna, Pierantonio, Emanuela Salvatorelli, Maria Ilaria Del Principe, Salvatore Perrone, Livio Pagano, Francesco Marchesi, and Giorgio Minotti. 2021. <span>“Choosing Antifungals for the <span>Midostaurin-Treated</span> Patient: <span>Does CYP3A4</span> Outweigh Recommendations? <span>A</span> Brief Insight from Real Life.”</span> <em>Chemotherapy</em> 66 (1-2): 47–52. <a href="https://doi.org/10.1159/000513989">https://doi.org/10.1159/000513989</a>.
 </div>
 <div id="ref-ouatas2017" class="csl-entry" role="doc-biblioentry">
-Ouatas, Taoufik, Vincent Duval, Karen Sinclair, and Noah Berkowitz. 2017. <span>“Concomitant <span>Use</span> of <span>Midostaurin</span> with <span>Strong Cyp3a4 Inhibitors</span>: <span>An Analysis</span> from the <span>Ratify Trial</span>.”</span> <em>Blood</em> 130 (Supplement 1): 3814–14. <a href="https://doi.org/10.1182/blood.V130.Suppl_1.3814.3814">https://doi.org/10.1182/blood.V130.Suppl_1.3814.3814</a>.
+Ouatas, Taoufik, Vincent Duval, Karen Sinclair, and Noah Berkowitz. 2017. <span>“Concomitant <span>Use</span> of <span>Midostaurin</span> with <span>Strong CYP3A4 Inhibitors</span>: <span>An Analysis</span> from the <span>Ratify Trial</span>.”</span> <em>Blood</em> 130 (Supplement 1): 3814–14. <a href="https://doi.org/10.1182/blood.V130.Suppl_1.3814.3814">https://doi.org/10.1182/blood.V130.Suppl_1.3814.3814</a>.
 </div>
 <div id="ref-rausch2019" class="csl-entry" role="doc-biblioentry">
 Rausch, Caitlin R, Courtney D DiNardo, Abhishek Maiti, Nadya Jammal, Tapan M Kadia, Kayleigh Marx, Gautam M Borthakur, et al. 2019. <span>“Venetoclax Dosing in Combination with Antifungal Agents: <span>Real</span> World Experience in Patients with Acute Myeloid Leukemia.”</span> <em>Blood</em> 134 (Supplement_1): 2640–40. <a href="https://doi.org/10.1182/blood-2019-131988">https://doi.org/10.1182/blood-2019-131988</a>.
 </div>
 <div id="ref-stemler2022J" class="csl-entry" role="doc-biblioentry">
 Stemler, Jannik, Nick de Jonge, Nicole Skoetz, János Sinkó, Roger J Brüggemann, Alessandro Busca, Ronen Ben-Ami, et al. 2022. <span>“Antifungal Prophylaxis in Adult Patients with Acute Myeloid Leukaemia Treated with Novel Targeted Therapies: A Systematic Review and Expert Consensus Recommendation from the <span>European Hematology Association</span>.”</span> <em>The Lancet Haematology</em> 9 (5): e361–73. <a href="https://doi.org/10.1016/S2352-3026(22)00073-4">https://doi.org/10.1016/S2352-3026(22)00073-4</a>.
-</div>
-<div id="ref-trifilio2014" class="csl-entry" role="doc-biblioentry">
-Trifilio, S, and J Mehta. 2014. <span>“Antimicrobial Prophylaxis in Hematopoietic Stem Cell Transplantation Recipients: 10 Years After.”</span> <em>Transplant Infectious Disease: An Official Journal of the Transplantation Society</em> 16 (4): 548–55. <a href="https://doi.org/10.1111/tid.12237">https://doi.org/10.1111/tid.12237</a>.
 </div>
 <div id="ref-varughese2018" class="csl-entry" role="doc-biblioentry">
 Varughese, Tilly, Ying Taur, Nina Cohen, M Lia Palomba, Susan K Seo, Tobias M Hohl, and Gil Redelman-Sidi. 2018. <span>“Serious <span>Infections</span> in <span>Patients Receiving Ibrutinib</span> for <span>Treatment</span> of <span>Lymphoid Cancer</span>.”</span> <em>Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America</em> 67 (5): 687–92. <a href="https://doi.org/10.1093/cid/ciy175">https://doi.org/10.1093/cid/ciy175</a>.
@@ -1178,7 +1229,6 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
   <script src="avir talk_ppt_files/libs/revealjs/dist/reveal.js"></script>
-
   <!-- reveal.js plugins -->
   <script src="avir talk_ppt_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
@@ -1188,12 +1238,13 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/multiplex/socket.io.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
   <script src="avir talk_ppt_files/libs/revealjs/plugin/notes/notes.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/search/search.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/zoom/zoom.js"></script>
   <script src="avir talk_ppt_files/libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
-
 
   <script>
 
@@ -1207,12 +1258,11 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
-
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
 'multiplex': {"secret":"16527029594481022401","id":"9c6041bc1811a842","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
-
+ 
         // Display controls in the bottom right corner
         controls: true,
 
@@ -1390,8 +1440,26 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
         ]
       });
     </script>
-    <script type="application/javascript">
+    <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
       const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
       tabsets.forEach(function(tabset) {
         const tabby = new Tabby('#' + tabset.id);
@@ -1408,7 +1476,27 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
         button.blur();
         // flash "checked"
         button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
         setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
           button.classList.remove('code-copy-button-checked');
         }, 1000);
         // clear code selection
@@ -1437,31 +1525,50 @@ Young, Jo-Anne H. 2021. <span>“Both <span>‘<span>Small Ball</span>’</span>
       for (var i=0; i<noterefs.length; i++) {
         const ref = noterefs[i];
         tippyHover(ref, function() {
-          let href = ref.getAttribute('href');
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
           return note.innerHTML;
         });
       }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
       var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
       for (var i=0; i<bibliorefs.length; i++) {
         const ref = bibliorefs[i];
-        const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-        tippyHover(ref, function() {
-          var popup = window.document.createElement('div');
-          cites.forEach(function(cite) {
-            var citeDiv = window.document.createElement('div');
-            citeDiv.classList.add('hanging-indent');
-            citeDiv.classList.add('csl-entry');
-            var biblioDiv = window.document.getElementById('ref-' + cite);
-            if (biblioDiv) {
-              citeDiv.innerHTML = biblioDiv.innerHTML;
-            }
-            popup.appendChild(citeDiv);
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
           });
-          return popup.innerHTML;
-        });
+        }
       }
     });
     </script>
