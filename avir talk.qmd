@@ -6,7 +6,6 @@ format:
     transition: fade
     transition-speed: fast
     scrollable: true
-    logo: unibo_red.png
     slide-number: false
     incremental: true
     multiplex: true
@@ -23,14 +22,15 @@ bibliography: references.bib
 
 <br> <br>
 
-<center>
+<center>Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Molecular Medicine, University of Padua <br> Hematopoietic Stem Cell Transplant Program and Cell Therapies <br>Ca’ Foncello Hospital, Treviso, Italy
 
-Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Medical and Surgical Sciences <br> Infectious Diseases Unit- IRCCS S. Orsola University Hospitals <br> Alma Mater Studiorum Università di Bologna <br> Bologna, Italy
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
-</center>
+![](University_of_Padua_seal.svg){.absolute top="500" left="150" width="150" height="100"}
+
 
 ::: aside
-June 23, 2022
+June 26, 2024
 :::
 
 ## Disclosures
@@ -49,34 +49,47 @@ June 23, 2022
 -   What are the risks of toxicity and drug interactions with these newer therapies?
 -   Is their a unique role for isavuconazole versus other triazoles?
 
-## The cure of leukemia through the optimist's prism {.smaller}
+## "The cure of leukemia through the optimist's prism" {.smaller}
 
 <br>
 
-| Disease                                                                   | Current/future therapies\*                                                                                                                                      | Survival <br> (5 year) |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
+| Disease                                                                   | Current/ <br> future therapies\*                                                                                                                                | Survival <br> (5 year) |
++===========================================================================+=================================================================================================================================================================+========================+
 | **Hairy cell leukemia**                                                   | Cladarabine + [gemtuzumab ozogamicin (GO)]{style="color:red;"}                                                                                                  | 90%                    |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **Acute premyelocytic leukemia**                                          | ATRA + arsenic ± [GO]{style="color:red;"}                                                                                                                       | 80-90%                 |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **AML (core binding factor positive)**                                    | FLAG-[GO]{style="color:red;"} ± IDA, alloHSCT if MRD positive, if indicated, oral [AZA/HMA with venetoclax or FLT3/IDH or menin inhibitors]{style="color:red;"} | 80-90%+                |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **AML** <br>**(younger fit)**                                             | FLAG-IDA and [venetoclax]{style="color:red;"}, CLIA and [venetoclax]{style="color:red;"}                                                                        | 50-60%                 |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **AML** <br> **(older, unfit, complex karyotype, T-53 mutations, MECOM)** | Low-intensity triple nucleosides (cladarabine, cytarabine and [HMAs + venetoclax; HMAs + venetoclax + targeted therapy]{style="color:red;"}                     | 40-50%                 |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **ALL \< 60 years**                                                       | HyperCVAD + [CD19/CD20 targeted antibodies]{style="color:red;"}                                                                                                 | 60-70%                 |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **ALL \> 60 years**                                                       | Mini-hyper CVAD+ [inotuzumab; blinatumab + ponatinib]{style="color:red;"}                                                                                       | 50%                    |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **Ph-positive ALL**                                                       | HyperCVAD + [ponatinib; blinatumab + ponatinib]{style="color:red;"}                                                                                             | 70-80%?                |
++---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
 
-\*some therapies investigational or not licensed in Canada
+\*some therapies investigational or not licensed in Canada.
 :::
 
 ##  {.smaller}
 
++---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 | Disease | Current/ future therapy\*                                                                                                  | Survival <br>(5 year) |
-|---------|----------------------------------------------------------------------------------------------------------------------------|-----------------------|
++=========+============================================================================================================================+=======================+
 | **CML** | [BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)]{style="color:red;"}, alloHSCT | 85-90%                |
++---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 | **CLL** | [Ibrutinib, other BTKIs (acalabrutinib, zanubrutinib, pirtobrutinib)]{style="color:red;"}                                  | 80-90% +              |
++---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 | **MDS** | [Parenteral HMAs, oral HMAs, venetoclax, others]{style="color:red;"}                                                       | 40% +                 |
++---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
@@ -128,11 +141,7 @@ June 23, 2022
 
 ::: columns
 ::: {.column width="60%"}
-<center>
-
-Data from MSKCC, New York
-
-</center>
+<center>Data from MSKCC, New York</center>
 
 <div>
 
@@ -228,12 +237,17 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-| **Day**  | **Full dose** | **Moderate CYP3A4 inhibitor**[^1] | **Strong CYP3A4 inhibitor**[^2] |
-|----------|---------------|-----------------------------------|---------------------------------|
-| Day 1    | 100 mg        | 50 mg                             | 10 mg                           |
-| Day 2    | 200 mg        | 100 mg                            | 20 mg                           |
-| Day 3    | 400 mg        | 200 mg                            | 50 mg                           |
-| Day 4-28 | 400 mg        | 200 mg                            | 70 mg                           |
++------------+---------------+-----------------------------------+---------------------------------+
+| **Day**    | **Full dose** | **Moderate CYP3A4 inhibitor**[^1] | **Strong CYP3A4 inhibitor**[^2] |
++============+===============+===================================+=================================+
+| Day 1      | 100 mg        | 50 mg                             | 10 mg                           |
++------------+---------------+-----------------------------------+---------------------------------+
+| Day 2      | 200 mg        | 100 mg                            | 20 mg                           |
++------------+---------------+-----------------------------------+---------------------------------+
+| Day 3      | 400 mg        | 200 mg                            | 50 mg                           |
++------------+---------------+-----------------------------------+---------------------------------+
+| Day 4-28   | 400 mg        | 200 mg                            | 70 mg                           |
++------------+---------------+-----------------------------------+---------------------------------+
 
 ::: aside
 [@stemler2022J; @bhatnagar2021J]
@@ -251,11 +265,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ## CYP450 Interactions: The achilles heel of triazoles
 
-<center>
-
-75-85% of patients receiving mold-active triazoles have serious drug interactions
-
-</center>
+<center>75-85% of patients receiving mold-active triazoles have serious drug interactions</center>
 
 ![](cyp_interactions.png){fig-align="center" width="600"}
 
@@ -269,11 +279,15 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br> <br>
 
++-----------------------+------------------------------+------------------------------+----------------------------------+--------------------------------+-------------------------------------------------------------+--------------------------------+
 | Drug                  | Venetoclax                   | Midostraurin                 | Gilteritinib                     | Ivosidenib                     | Enasidinib                                                  | Glasdegib                      |
-|-----------------------|------------------------------|------------------------------|----------------------------------|--------------------------------|-------------------------------------------------------------|--------------------------------|
++=======================+==============================+==============================+==================================+================================+=============================================================+================================+
 | Specificity (targets) | BCL2                         | FLT3                         | FLT3                             | IDH1                           | IDH2                                                        | Hedgehog pathway               |
++-----------------------+------------------------------+------------------------------+----------------------------------+--------------------------------+-------------------------------------------------------------+--------------------------------+
 | Hepatic               | [CYP3A4]{style="color:red;"} | [CYP3A4]{style="color:red;"} | [CYP3A4/5]{style="color:red;"}   | [CYP3A4/5]{style="color:red;"} | [Multiple CYP enzymes including CYP3A4]{style="color:red;"} | [CYP3A4/5]{style="color:red;"} |
++-----------------------+------------------------------+------------------------------+----------------------------------+--------------------------------+-------------------------------------------------------------+--------------------------------+
 | Efflux                | Substrate of PgP, BCRP       | Not a substrate              | Substrate of PgP, not BCRP, OATP | Substrate PgP, but not BRCP    | Not a substrate of BCRP pr PgP                              | Substrate for PGP, BCRP        |
++-----------------------+------------------------------+------------------------------+----------------------------------+--------------------------------+-------------------------------------------------------------+--------------------------------+
 
 ::: aside
 [@megias-vericat2020J]
