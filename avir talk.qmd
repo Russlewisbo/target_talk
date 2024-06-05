@@ -109,7 +109,7 @@ June 26, 2024
 -   Improved supportive care (antifungal and CMV prophylaxis)
 -   Cellular therapies for relapse prevention and treatment (DLI, CAR-T)
 -   Molecular and genomic monitoring for MRD detection
--   [Personalized medicine (targeted therapies)]{.rn rn-type=highlightr}
+-   [Personalized medicine (targeted therapies)]{.rn rn-type=highlight}
 :::
 
 ::: aside
