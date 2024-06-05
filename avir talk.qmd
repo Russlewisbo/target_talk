@@ -136,7 +136,7 @@ CIBMTR 2023 Report Mortality Trends: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011
 -   Changing the risk of drug interactions and toxicity with antifungal therapy?
 -   Is there a unique role for isavuconazole?
 
-## Fungal disease epidemiology {background-image="bonemarrow.png" background-opacity="0.5"}
+## Fungal disease epidemiology 
 
 ## Unexpected consequences of targeted therapy?
 
