@@ -9,12 +9,12 @@ format:
     slide-number: false
     incremental: true
     multiplex: true
-    chalkboard: true
+    chalkboard: false
     theme: [default, custom.scss]
 bibliography: references.bib
 ---
 
-## The Changing Landscape of Hematological <br> Malignancy Treatment {background-video="/images/bubbles.mp4" background-video-loop="true" background-video-muted="true" background-opacity="0.2"}
+## The Changing Landscape of Hematological <br> Malignancy Treatment {background-video="/images/bubbles.mp4" background-video-loop="true" background-video-muted="true" background-opacity=0.5}
 
 <br>
 
@@ -46,7 +46,7 @@ June 26, 2024
 
 <br>
 
-## Agenda
+## Agenda {background-image="bonemarrow.png"}
 
 <br>
 
@@ -54,14 +54,14 @@ June 26, 2024
 -   What are the risks of toxicity and drug interactions with these newer therapies?
 -   Is their a unique role for isavuconazole versus other triazoles?
 
-## The cure of leukemia "through the optimist's prism" {.smaller}
+## "The cure of leukemia through the optimist's prism" {.smaller}
 
 <br>
 
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| Disease                                                                   | Current/ <br> Future therapies\*                                                                                                                                | Survival <br> (5 year) |
+| Disease                                                                   | Current/ <br> future therapies\*                                                                                                                                | Survival <br> (5 year) |
 +===========================================================================+=================================================================================================================================================================+========================+
-| **Hairy cell leukemia**                                                   | Clofarabine + [(GO)]{style="color:red;"}                                                                                                                        | 90%                    |
+| **Hairy cell leukemia**                                                   | Clofarabine + [gemtuzumab ozogamicin (GO)]{style="color:red;"}                                                                                                  | 90%                    |
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **Acute premyelocytic leukemia**                                          | ATRA + arsenic ± [GO]{style="color:red;"}                                                                                                                       | 80-90%                 |
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
@@ -75,18 +75,16 @@ June 26, 2024
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 | **ALL \> 60 years**                                                       | Mini-hyper CVAD+ [inotuzumab; blinatumab + ponatinib]{style="color:red;"}                                                                                       | 50%                    |
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| **Ph-positive ALL**                                                       | HyperCVAD + [ponatinib; blinatumab + ponatinib]{style="color:red;"}                                                                                             | 70-80%                 |
+| **Ph-positive ALL**                                                       | HyperCVAD + [ponatinib; blinatumab + ponatinib]{style="color:red;"}                                                                                             | 70-80%?                |
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
 
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
 
-\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation
+\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation.
 :::
 
-## "The cure of leukemia "through the optimist's prism" {.smaller}
-
-<br>
+##  "The cure of leukemia through the optimist's prism" {.smaller}
 
 +----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 | Disease  | Current/ future therapy\*                                                                                                  | Survival <br>(5 year) |
@@ -104,6 +102,14 @@ June 26, 2024
 \*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation.
 :::
 
+## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity=0.5}
+<br> 
+<br>
+
+-   Changing the epidemiology of invasive fungal diseases?
+-   Changing the risk of drug interactions and toxicity with antifungal therapy?
+-   Is there a unique role for isavuconazole?
+
 ## <br> <br> <br> <br> <br>How is invasive fungal disease risk altered <br> by targeted therapies? {background-image="bonemarrow.png"}
 
 ## Unexpected consequences of targeted therapy?
@@ -113,17 +119,15 @@ June 26, 2024
 ![](burger_NEJM.png){fig-align="center" width="3028"}
 
 ::: aside
-[@burger2015; @chamilos2018]
+In response to phagocytosis of A. fumigatus by macrophages, BTK activates the calcineurin- NFAT pathway and potentiates TNF-α signaling [@burger2015; @chamilos2018; @herbst2015]
 :::
 
-## BTK drives neutrophil activation required for sterilizing antifungal immunity
-
-<br>
-
-![](images/Lionakis.png)
+## BTK drives neutrophil activation for sterilizing antifungal immunity
 
 ::: aside
 [@desai2024]
+
+Second-generation BTK inhibitors acalabrutinib and zanubrutinib have since been granted FDA approval and possess greater binding selectivity and fewer off-target effects compared to ibrutinib.
 :::
 
 ## Ibrutinib-associated aspergillosis
