@@ -14,7 +14,7 @@ format:
 bibliography: references.bib
 ---
 
-## The Changing Landscape of Hematological <br> Malignancy Treatment {background-video="/images/bubbles.mp4" background-video-loop="true" background-video-muted="true" background-opacity=0.5}
+## The Changing Landscape of Hematological <br> Malignancy Treatment {background-video="/images/bubbles.mp4" background-video-loop="true" background-video-muted="true" background-opacity="0.5"}
 
 <br>
 
@@ -44,22 +44,12 @@ June 26, 2024
 -   **Consultancy**: F2G, Scynexis, Basilea, Gilead Sciences, Cidara Therapeutics
 :::
 
-<br>
-
-## Agenda {background-image="bonemarrow.png"}
-
-<br>
-
--   How will new therapies impact the epidemiology of invasive fungal infections?
--   What are the risks of toxicity and drug interactions with these newer therapies?
--   Is their a unique role for isavuconazole versus other triazoles?
-
 ## "The cure of leukemia through the optimist's prism" {.smaller}
 
 <br>
 
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
-| Disease                                                                   | Current/ <br> future therapies\*                                                                                                                                | Survival <br> (5 year) |
+| Disease                                                                   | Current/ <br> Future therapies\*                                                                                                                                | Survival <br> (5 year) |
 +===========================================================================+=================================================================================================================================================================+========================+
 | **Hairy cell leukemia**                                                   | Clofarabine + [gemtuzumab ozogamicin (GO)]{style="color:red;"}                                                                                                  | 90%                    |
 +---------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+
@@ -81,10 +71,12 @@ June 26, 2024
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
 
-\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation.
+\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation. [Targeted therapies hihglighted in red.]{style="color:red;"}
 :::
 
-##  "The cure of leukemia through the optimist's prism" {.smaller}
+## "The cure of leukemia through the optimist's prism" {.smaller}
+
+<br>
 
 +----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 | Disease  | Current/ future therapy\*                                                                                                  | Survival <br>(5 year) |
@@ -99,18 +91,49 @@ June 26, 2024
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
 
-\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation.
+\*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation.[Targeted therapies hihglighted in red.]{style="color:red;"}
 :::
 
-## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity=0.5}
-<br> 
+## Advances in allogeneic HSCT {background-image="images/bmt.png" background-opacity="0.4"}
+
 <br>
+
+::: nonincremental
+-   Improvements in HLA typing and matching
+-   Expanded donor pools
+-   GVHD prophylaxis and treatment (cyclophosphamide, JAK inhibitors)
+-   Refinement of reduced-intensity regimens
+-   Improved supportive care (antifungal and CMV prophylaxis)
+-   Cellular therapies for relapse prevention and treatment (DLI, CAR-T)
+-   Molecular and genomic monitoring for MRD detection
+-   **Personalized medicine (targeted therapies)**
+:::
+
+::: aside
+CIBMTR 2023 Report Mortality Trends: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-2015 54.7% (54.2-55.2%)<br> 2006-2010 49.0% (48.5-49.6%)<br> 2001-2005 43.4% (42.7-44.1%)<br>
+:::
+
+## Decreases in non-relapse mortality (EBMT data)
+
+<br>
+
+<br>
+
+![](images/nrm.png){fig-align="center"}
+
+::: aside
+[@penack2020]
+:::
+
+## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity="0.5"}
+
+<br> <br>
 
 -   Changing the epidemiology of invasive fungal diseases?
 -   Changing the risk of drug interactions and toxicity with antifungal therapy?
 -   Is there a unique role for isavuconazole?
 
-## <br> <br> <br> <br> <br>How is invasive fungal disease risk altered <br> by targeted therapies? {background-image="bonemarrow.png"}
+## Fungal disease epidemiology {background-image="bonemarrow.png" background-opacity="0.5"}
 
 ## Unexpected consequences of targeted therapy?
 
