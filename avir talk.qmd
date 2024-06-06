@@ -11,8 +11,13 @@ format:
     multiplex: true
     chalkboard: false
     theme: [default, custom.scss]
-    revealjs-plugins:
+    pointer:
+      pointerSize: 18
+      color: '#32cd32'
+revealjs-plugins:
+  - pointer
 bibliography: references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
 filters:
    - roughnotation
 ---
@@ -27,7 +32,7 @@ filters:
 
 <center>
 
-Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Molecular Medicine, University of Padua 
+Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Molecular Medicine, University of Padua
 
 <br> <br> <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
@@ -109,8 +114,10 @@ June 26, 2024
 -   Improved supportive care (antifungal and CMV prophylaxis)
 -   Cellular therapies for relapse prevention and treatment (DLI, CAR-T)
 -   Molecular and genomic monitoring for MRD detection
--   [Personalized medicine (targeted therapies)]{.rn rn-type=highlight}
+-   [Personalized medicine (targeted therapies)]{.rn rn-type="highlight"}
 :::
+
+<center>
 
 ::: aside
 CIBMTR 2023 Report Mortality Trends: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-2015 54.7% (54.2-55.2%)<br> 2006-2010 49.0% (48.5-49.6%)<br> 2001-2005 43.4% (42.7-44.1%)<br>
@@ -128,6 +135,14 @@ CIBMTR 2023 Report Mortality Trends: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011
 [@penack2020]
 :::
 
+## Infectious complications after haploidentical HSCT with post-transplant cyclophosphamide
+
+![](images/cyclophos.png){fig-align="center" width="600"}
+
+::: aside
+Majority of infections were aspergillosis. Fungal infection mortality rate -33% <br>[@amandinefayard2019]
+:::
+
 ## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity="0.5"}
 
 <br> <br>
@@ -136,7 +151,7 @@ CIBMTR 2023 Report Mortality Trends: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011
 -   Changing the risk of drug interactions and toxicity with antifungal therapy?
 -   Is there a unique role for isavuconazole?
 
-## Fungal disease epidemiology 
+## Fungal disease epidemiology
 
 ## Unexpected consequences of targeted therapy?
 
