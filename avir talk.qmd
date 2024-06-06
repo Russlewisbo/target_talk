@@ -151,7 +151,21 @@ Majority of infections were aspergillosis. Fungal infection mortality rate -33% 
 -   Changing the risk of drug interactions and toxicity with antifungal therapy?
 -   Is there a unique role for isavuconazole?
 
-## Fungal disease epidemiology
+## Immune sequela of targeted therapies
+
+![](images/immune.png){fig-align="center" width="600"}
+
+::: aside
+[@little.etal_2021]
+:::
+
+## Novel targeted agents-Risk of fungal infections
+
+![](images/risk.png){fig-align="center" width="800"}
+
+::: aside
+[@little.etal_2021]
+:::
 
 ## Unexpected consequences of targeted therapy?
 
@@ -311,10 +325,6 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 | Day 4-28    | 400 mg        | 200 mg                            | 70 mg                           |
 +-------------+---------------+-----------------------------------+---------------------------------+
 
-[^1]: fluconazole, isavuconazole
-
-[^2]: voriconazole, posaconazole
-
 ::: aside
 [@stemler2022J; @bhatnagar2021J]
 :::
@@ -368,12 +378,6 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 :::
 
 ## Just avoid triazoles?
-
-<br>
-
-![](avoid%20triazoles.png){fig-align="center"}
-
-## The problems with echinocandin prophylaxis
 
 <br>
 
@@ -690,3 +694,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 <br>
 
 All figures created by R. Lewis using www.biorender.com <br> <br>
+
+[^1]: fluconazole, isavuconazole
+
+[^2]: voriconazole, posaconazole
