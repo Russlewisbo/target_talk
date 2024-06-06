@@ -52,7 +52,7 @@ June 26, 2024
 -   **Consultancy**: F2G, Scynexis, Basilea, Gilead Sciences, Cidara Therapeutics
 :::
 
-## "The cure of leukemia through the optimist's prism" {.smaller}
+## The cure of leukemia through the optimist's prism {.smaller}
 
 <br>
 
@@ -82,7 +82,7 @@ June 26, 2024
 \*some therapies investigational or not licensed in Canada. Abbreviations: ALL, acute lymphoblastic leukemia; CLIA, cladribine, high-dose cytarabine, and idarubicin; FLAG-GO, fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin; FLAG-GO ± IDA, fludarabine, cytarabine, granulocyte colony-stimulating factor, and gemtuzumab ozogamicin ± idarubicin; FLAG-IDA, fludarabine, high-dose cytarabine, and idarubicin; GO, gemtuzumab ozogamicin; HMA, hypomethylating agent; hyper-CVAD, hyperfractionated cyclophosphamide, vincristine, Adriamycin, and dexamethasone; mini-hyper-CVD, mini-hyperfractionated cyclophosphamide, vincristine, dexamethasone; Ph, Philadelphia chromosome; SCT, stem cell transplantation. [Targeted therapies highlighted in red.]{style="color:red;"}
 :::
 
-## "The cure of leukemia through the optimist's prism" {.smaller}
+## The cure of leukemia through the optimist's prism {.smaller}
 
 <br>
 
@@ -159,30 +159,14 @@ Majority of infections were aspergillosis. Fungal infection mortality rate -33% 
 [@little.etal_2021]
 :::
 
-## Novel targeted agents-Risk of fungal infections
-
-![](images/risk.png){fig-align="center" width="800"}
-
-::: aside
-[@little.etal_2021]
-:::
-
-## Unexpected consequences of targeted therapy?
+## Unexpected consequences?
 
 <br>
 
 ![](burger_NEJM.png){fig-align="center" width="3028"}
 
 ::: aside
-In response to phagocytosis of *A. fumigatus* by macrophages, BTK activates the calcineurin- NFAT pathway and potentiates TNF-α signaling [@burger2015; @chamilos2018; @herbst2015]
-:::
-
-## BTK drives neutrophil activation for sterilizing antifungal immunity
-
-::: aside
-[@desai2024]
-
-Second-generation BTK inhibitors acalabrutinib and zanubrutinib have since been granted FDA approval and possess greater binding selectivity and fewer off-target effects compared to ibrutinib.
+[@burger2015; @chamilos2018; @herbst2015]
 :::
 
 ## Ibrutinib-associated aspergillosis
@@ -241,7 +225,38 @@ Second-generation BTK inhibitors acalabrutinib and zanubrutinib have since been 
 [@varughese2018; @frei2020J]
 :::
 
-## 
+## BTK drives neutrophil activation for sterilizing antifungal immunity {background-image="images/neutrophil.jpg" background-opacity="0.2"}
+
+<br>
+
+-   After phagocytosis of *A. fumgatus* by macrophages, BTK activates calcineurin-NFAT pathways and potentiates TNF-α signalling →
+    -   Impaired chemokine response and neutrophil recruitment
+-   Aberrant innate immune response via TREM-1 signalling pathways→ decreased respiratory burst
+-   Ibrutinib also inhibits platelet activation, granule secretion, and platlet-mediated damage of *Aspergillus*
+
+::: aside
+[@desai2024; @palmucci.etal_2023]
+
+Second-generation BTK inhibitors acalabrutinib and zanubrutinib have since been granted FDA approval and possess greater binding selectivity and fewer off-target effects compared to ibrutinib.
+:::
+
+## Novel targeted agents-Risk of fungal infections
+
+![](images/risk.png){fig-align="center" width="800"}
+
+::: aside
+[@little.etal_2021]
+:::
+
+## Immune sequela of targeted therapies
+
+![](images/immune.png){fig-align="center" width="600"}
+
+::: aside
+[@little.etal_2021]
+:::
+
+## Guideline recommendations
 
 ![](Lancet%20_DI.png)
 
@@ -325,6 +340,8 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 | Day 4-28    | 400 mg        | 200 mg                            | 70 mg                           |
 +-------------+---------------+-----------------------------------+---------------------------------+
 
+<br>
+
 ::: aside
 [@stemler2022J; @bhatnagar2021J]
 :::
@@ -343,7 +360,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <center>75-85% of patients receiving mold-active triazoles have serious drug interactions</center>
 
-![](cyp_interactions.png){fig-align="center" width="600"}
+![](cyp_interactions.png){fig-align="center" width="800"}
 
 <br>
 
@@ -371,7 +388,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ## Toxicities of small-molecule kinase inhibitors
 
-![](targeted%20therapy%20toxicities.png){fig-align="center"}
+![](targeted%20therapy%20toxicities.png){fig-align="center" width="800"}
 
 ::: aside
 [@wang2020a]
@@ -381,7 +398,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-![](echinocandin.png){fig-align="center"}
+![](echinocandin.png){fig-align="center" width="800"}
 
 ::: aside
 [@gomes2014]
