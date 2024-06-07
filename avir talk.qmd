@@ -117,22 +117,8 @@ June 26, 2024
 -   [Personalized medicine (targeted therapies)]{.rn rn-type="highlight"}
 :::
 
-<center>
-
 ::: aside
-CIBMTR 2023 Report Survivial Rates: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-2015 54.7% (54.2-55.2%)<br> 2006-2010 49.0% (48.5-49.6%)<br> 2001-2005 43.4% (42.7-44.1%)<br>
-:::
-
-## Decreases in non-relapse mortality (EBMT data)
-
-<br>
-
-<br>
-
-![](images/nrm.png){fig-align="center"}
-
-::: aside
-[@penack2020]
+CIBMTR 2023 Report Survival Rates: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-2015 54.7% (54.2-55.2%)<br> 2006-2010 49.0% (48.5-49.6%)<br> 2001-2005 43.4% (42.7-44.1%)<br>[@penack2020]
 :::
 
 ## Infectious complications after haploidentical HSCT with post-transplant cyclophosphamide
@@ -140,7 +126,7 @@ CIBMTR 2023 Report Survivial Rates: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-
 ![](images/cyclophos.png){fig-align="center" width="600"}
 
 ::: aside
-Majority of infections were aspergillosis. Fungal infection mortality rate -33% <br>[@amandinefayard2019]
+Majority of infections were aspergillosis. [Fungal infection mortality rate -33%]{.rn rn-type="highlight"} <br>[@amandinefayard2019]
 :::
 
 ## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity="0.5"}
@@ -232,7 +218,7 @@ Majority of infections were aspergillosis. Fungal infection mortality rate -33% 
 -   After phagocytosis of *A. fumgatus* by macrophages, BTK activates calcineurin-NFAT pathways and potentiates TNF-α signalling →
     -   Impaired chemokine response and neutrophil recruitment
 -   Aberrant innate immune response via TREM-1 signalling pathways→ decreased respiratory burst
--   Ibrutinib also inhibits platelet activation, granule secretion, and platlet-mediated damage of *Aspergillus*
+-   Ibrutinib also inhibits platelet activation, granule secretion, and platelet-mediated damage of *Aspergillus*
 
 ::: aside
 [@desai2024; @palmucci.etal_2023]
@@ -248,19 +234,11 @@ Second-generation BTK inhibitors acalabrutinib and zanubrutinib have since been 
 [@little.etal_2021]
 :::
 
-## Immune sequela of targeted therapies
-
-![](images/immune.png){fig-align="center" width="600"}
-
-::: aside
-[@little.etal_2021]
-:::
-
 ## Guideline recommendations
 
-![](Lancet%20_DI.png)
-
 ![](Lancet%20Haematology.png){fig-align="center"}
+
+![](Lancet%20_DI.png){fig-align="center"}
 
 ::: aside
 [@bruggemann2022; @stemler2022J]
@@ -346,7 +324,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@stemler2022J; @bhatnagar2021J]
 :::
 
-## Triazole prophylaxis increases duration of thrombocytopenia but not neutropenia or infections with dose-adjusted venetoclax
+## Triazole prophylaxis increases duration of thrombocytopenia but not neutropenia or infections with dose-adjusted venetoclax {.smaller}
 
 <br>
 
@@ -515,7 +493,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ## Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by *Aspergillus* and other filamentous fungi (SECURE) {.smaller}
 
-![](Secure.png){fig-align="center" width="500"}
+![](Secure.png){fig-align="center" width="700"}
 
 <br>
 
@@ -540,7 +518,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 ## Isavuconazole treatment for mucormycosis: <br> a single-arm, open-label, case-control study (VITAL)
 
-![](isavuconazole_Mucor.png){fig-align="center" width="800"}
+![](isavuconazole_Mucor.png){fig-align="center" width="700"}
 
 ::: aside
 [@marty2014]
