@@ -12,7 +12,7 @@
 <script src="avir talk_files/libs/quarto-contrib/roughnotation-init-1.0.0/rough.js"></script>
 <link href="avir talk_files/libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="avir talk_files/libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.552">
+  <meta name="generator" content="quarto-1.4.549">
 
   <title>avir-talk</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -378,7 +378,7 @@
 <section id="the-cure-of-leukemia-through-the-optimists-prism" class="slide level2 smaller">
 <h2>The cure of leukemia through the optimist’s prism</h2>
 <p><br></p>
-<table>
+<table style="width:100%;">
 <colgroup>
 <col style="width: 28%">
 <col style="width: 61%">
@@ -442,11 +442,11 @@
 <section id="the-cure-of-leukemia-through-the-optimists-prism-1" class="slide level2 smaller">
 <h2>The cure of leukemia through the optimist’s prism</h2>
 <p><br></p>
-<table>
+<table style="width:99%;">
 <colgroup>
-<col style="width: 5%">
-<col style="width: 79%">
-<col style="width: 14%">
+<col style="width: 6%">
+<col style="width: 78%">
+<col style="width: 15%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -691,7 +691,7 @@ Data from MSKCC, New York
 <aside><div>
 <p><span class="citation" data-cites="stemler2022J">(<a href="#/references" role="doc-biblioref" onclick="">Stemler et al., 2022</a>)</span></p>
 </div></aside></section>
-<section id="venetoclax-dose-adjustment-with-triazoles" class="slide level2 scrollable">
+<section id="venetoclax-dose-adjustment-with-triazoles" class="slide level2 smaller scrollable">
 <h2>Venetoclax dose-adjustment with triazoles</h2>
 <p><br></p>
 <center>
@@ -699,12 +699,12 @@ Data from MSKCC, New York
 <p>Co-administration with posaconazole ↑ venetoclax AUC 8-fold</p>
 </center>
 <p><br></p>
-<table>
+<table style="width:98%;">
 <colgroup>
-<col style="width: 10%">
-<col style="width: 16%">
-<col style="width: 37%">
+<col style="width: 12%">
+<col style="width: 15%">
 <col style="width: 35%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -776,15 +776,15 @@ Data from MSKCC, New York
 <section id="pkpd-properties-of-small-molecule-kinase-inhibitors" class="slide level2 smaller">
 <h2>PK/PD Properties of Small Molecule Kinase Inhibitors</h2>
 <p><br> <br></p>
-<table>
+<table style="width:98%;">
 <colgroup>
 <col style="width: 9%">
 <col style="width: 12%">
 <col style="width: 12%">
-<col style="width: 14%">
 <col style="width: 13%">
-<col style="width: 25%">
-<col style="width: 13%">
+<col style="width: 12%">
+<col style="width: 24%">
+<col style="width: 12%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -1172,8 +1172,8 @@ Data from MSKCC, New York
 <aside><div>
 <p><span class="citation" data-cites="bose2020 Tverdek2017-gh">(<a href="#/references" role="doc-biblioref" onclick="">Bose et al., 2020</a>; <a href="#/references" role="doc-biblioref" onclick="">Tverdek et al., 2017</a>)</span></p>
 </div></aside></section>
-<section id="dd" class="slide level2">
-<h2>dd</h2>
+<section id="section-4" class="slide level2">
+<h2></h2>
 
 <img data-src="bose5.png" class="quarto-figure quarto-figure-center r-stretch"><p><br></p>
 <p><br></p>
@@ -1626,24 +1626,6 @@ Young J-AH. Both <span>“<span>Small Ball</span>”</span> and <span>“<span>B
         // clear code selection
         e.clearSelection();
       });
-        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-        var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp('/' + window.location.host + '/');
-        var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-        }
-        // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-        for (var i=0; i<links.length; i++) {
-          const link = links[i];
-          if (!isInternal(link.href)) {
-            // undo the damage that might have been done by quarto-nav.js in the case of
-            // links that we want to consider external
-            if (link.dataset.originalHref !== undefined) {
-              link.href = link.dataset.originalHref;
-            }
-          }
-        }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
@@ -1680,11 +1662,7 @@ Young J-AH. Both <span>“<span>Small Ball</span>”</span> and <span>“<span>B
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          if (note) {
-            return note.innerHTML;
-          } else {
-            return "";
-          }
+          return note.innerHTML;
         });
       }
       const findCites = (el) => {
