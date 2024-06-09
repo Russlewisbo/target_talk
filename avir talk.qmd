@@ -22,7 +22,7 @@ filters:
    - roughnotation
 ---
 
-## The Changing Landscape of Hematological <br> Malignancy Treatment {background-video="/images/bubbles.mp4" background-video-loop="true" background-video-muted="true" background-opacity="0.5"}
+## The Changing Landscape of Hematological <br> Malignancy Treatment {background-image="bonemarrow.png" background-opacity="0.5"}
 
 <br>
 
