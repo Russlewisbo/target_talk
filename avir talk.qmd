@@ -6,7 +6,7 @@ format:
     transition: fade
     transition-speed: fast
     scrollable: true
-    slide-number: false
+    slide-number: true
     incremental: true
     multiplex: true
     chalkboard: false
@@ -86,15 +86,15 @@ June 26, 2024
 
 <br>
 
-+---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
-| Disease | Current/ future therapy\*                                                                                                  | Survival <br>(5 year) |
-+=========+============================================================================================================================+=======================+
-| **CML** | [BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)]{style="color:red;"}, alloHSCT | 85-90%                |
-+---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
-| **CLL** | [Ibrutinib, other BTKIs (acalabrutinib, zanubrutinib, pirtobrutinib)]{style="color:red;"}                                  | 80-90% +              |
-+---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
-| **MDS** | [Parenteral HMAs, oral HMAs, venetoclax, others]{style="color:red;"}                                                       | 40% +                 |
-+---------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
++----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| Disease  | Current/ future therapy\*                                                                                                  | Survival <br>(5 year) |
++==========+============================================================================================================================+=======================+
+| **CML**  | [BCR-Abl1 tyrosine kinase inhibitors (imatinib, dasatinib, bosutinib, nilotunib, ponatinib)]{style="color:red;"}, alloHSCT | 85-90%                |
++----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| **CLL**  | [Ibrutinib, other BTKIs (acalabrutinib, zanubrutinib, pirtobrutinib)]{style="color:red;"}                                  | 80-90% +              |
++----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| **MDS**  | [Parenteral HMAs, oral HMAs, venetoclax, others]{style="color:red;"}                                                       | 40% +                 |
++----------+----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 
 ::: aside
 [@kantarjian2021; @kantarjian2022J] <br>
@@ -306,17 +306,17 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
-+------------+---------------+-----------------------------------+---------------------------------+
-| **Day**    | **Full dose** | **Moderate CYP3A4 inhibitor**[^1] | **Strong CYP3A4 inhibitor**[^2] |
-+============+===============+===================================+=================================+
-| Day 1      | 100 mg        | 50 mg                             | 10 mg                           |
-+------------+---------------+-----------------------------------+---------------------------------+
-| Day 2      | 200 mg        | 100 mg                            | 20 mg                           |
-+------------+---------------+-----------------------------------+---------------------------------+
-| Day 3      | 400 mg        | 200 mg                            | 50 mg                           |
-+------------+---------------+-----------------------------------+---------------------------------+
-| Day 4-28   | 400 mg        | 200 mg                            | 70 mg                           |
-+------------+---------------+-----------------------------------+---------------------------------+
++-------------+---------------+-----------------------------------+---------------------------------+
+| **Day**     | **Full dose** | **Moderate CYP3A4 inhibitor**[^1] | **Strong CYP3A4 inhibitor**[^2] |
++=============+===============+===================================+=================================+
+| Day 1       | 100 mg        | 50 mg                             | 10 mg                           |
++-------------+---------------+-----------------------------------+---------------------------------+
+| Day 2       | 200 mg        | 100 mg                            | 20 mg                           |
++-------------+---------------+-----------------------------------+---------------------------------+
+| Day 3       | 400 mg        | 200 mg                            | 50 mg                           |
++-------------+---------------+-----------------------------------+---------------------------------+
+| Day 4-28    | 400 mg        | 200 mg                            | 70 mg                           |
++-------------+---------------+-----------------------------------+---------------------------------+
 
 [^1]: fluconazole, isavuconazole
 
@@ -577,15 +577,15 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@Menna2021-mb]
 :::
 
-## 
+## Antifungal prophylaxis in the targeted therapy era
 
-![](Bose%20study.png){fig-align="center"}
+![](Bose1.png){fig-align="center" width="1200"}
 
 ::: aside
 [@bose2020]
 :::
 
-##  {.smaller}
+## Study design {.smaller}
 
 ![](bose_study.png){fig-align="center" width="600"}
 
@@ -593,17 +593,17 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 [@bose2020]
 :::
 
-##{.smaller}
+## Demographics {.smaller}
 
-![](bose3.png){fig-align="center"}
+![](bose3.png){fig-align="center" width="600"}
 
 ::: aside
 [@bose2020]
 :::
 
-## 
+## Breakthrough infections {.smaller}
 
-![](bose4.png){fig-align="center"}
+![](bose4.png){fig-align="center" width="1200"}
 
 ::: aside
 [@bose2020]
@@ -677,9 +677,9 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
 <br>
 
--   **Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario** <br>
--   **Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult** <br>
--   **Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies**
+-   Knowledge of fungal infection risk with targeted therapy is evolving, and depends heavily on the individual patient treatment scenario <br> <br>
+-   Many small molecule inhibitors are metabolised by CYP3A4/5 and have potential for QTc prolongation, making concurrent use with broad-spectrum triazoles difficult <br> <br>
+-   Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies
 
 ## Treviso, Italy
 
