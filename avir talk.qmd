@@ -126,7 +126,7 @@ CIBMTR 2023 Report Survival Rates: <br> 2016-2021 61.1% (60.6-61.5%) <br> 2011-2
 ![](images/cyclophos.png){fig-align="center" width="600"}
 
 ::: aside
-Majority of infections were aspergillosis. [Fungal infection mortality rate -33%]{.rn rn-type="highlight"} <br>[@amandinefayard2019]
+Majority of infections were aspergillosis. [Fungal infection mortality rate averages 33%]{.rn rn-type="highlight"} <br>[@amandinefayard2019]
 :::
 
 ## How are newer targeted therapies... {background-image="bonemarrow.png" background-opacity="0.5"}
@@ -139,7 +139,7 @@ Majority of infections were aspergillosis. [Fungal infection mortality rate -33%
 
 ## Immune sequela of targeted therapies
 
-![](images/immune.png){fig-align="center" width="600"}
+![](images/immune.png){fig-align="center" width="500"}
 
 ::: aside
 [@little.etal_2021]
@@ -682,6 +682,8 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 -   Isavuconazole has several unique pharmacokinetic and safety advantages over older triazoles, making it an useful alternative in patients receiving targeted therapies
 
 ## Treviso, Italy
+
+<br>
 
 ![](images/treviso1.jpg){.absolute top="200" left="0" width="442" height="303"}
 
