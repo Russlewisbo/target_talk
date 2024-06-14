@@ -12,7 +12,7 @@ format:
     chalkboard: false
     theme: [default, custom.scss]
     pointer:
-      pointerSize: 18
+      pointerSize: 24
       color: '#32cd32'
 revealjs-plugins:
   - pointer
