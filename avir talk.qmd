@@ -515,7 +515,7 @@ Co-administration with posaconazole ↑ venetoclax AUC 8-fold
 
     -   Visual disturbances (VOR-27% vs. ISA-15%, p=0.002)
 
-    -   Skin or subcutaneous tissue (VOR-42% vs. ISA-33%, p=0.037
+    -   Skin or subcutaneous tissue (VOR-42% vs. ISA-33%, p=0.037)
 
 ::: aside
 [@maertens2016]
