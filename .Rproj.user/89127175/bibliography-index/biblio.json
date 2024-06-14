@@ -1,0 +1,2644 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/S2352-3026(21)00270-2",
+            "ISSN": "2352-3026",
+            "abstract": "Research has resulted in regulatory approval of nine agents for acute myeloid leukaemia indications by the US Food and Drug Administration since 2017: the Bcl-2 inhibitor, venetoclax; two FLT3 inhibitors, midostaurin and gilteritinib; two IDH inhibitors, ivosidenib (IDH1 inhibitor) and enasidenib (IDH2 inhibitor); the anti-CD33 antibodydrug conjugate, gemtuzumab ozogamicin; the oral, poorly absorbable hypomethylating agent, azacitidine; the liposomal formulation of cytarabine and daunorubicin (5:1 ratio), CPX-351; and the hedgehog signalling pathway inhibitor, glasdegib. A 100% absorbable oral formulation of the hypomethylating agent decitabine was approved for the treatment of myelodysplastic syndrome and chronic myelomonocytic leukaemia, and might be used as an alternative to parenteral hypomethylating agents. Several of the approvals are as single-agent therapies or in specific combinations for narrow indications, thus offering poor treatment value. In this Review, we discuss ongoing research into combinations containing these commercially available targeted therapies for acute myeloid leukaemia.",
+            "author": [
+                {
+                    "family": "Kantarjian",
+                    "given": "Hagop"
+                },
+                {
+                    "family": "Short",
+                    "given": "Nicholas J"
+                },
+                {
+                    "family": "DiNardo",
+                    "given": "Courtney"
+                },
+                {
+                    "family": "Stein",
+                    "given": "Eytan M"
+                },
+                {
+                    "family": "Daver",
+                    "given": "Naval"
+                },
+                {
+                    "family": "Perl",
+                    "given": "Alexander E"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Eunice S"
+                },
+                {
+                    "family": "Wei",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Tallman",
+                    "given": "Martin"
+                }
+            ],
+            "container-title": "The Lancet Haematology",
+            "id": "kantarjian2021",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "e922-e933",
+            "title": "Harnessing the benefits of available targeted therapies in acute myeloid leukaemia",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1002/cncr.33933",
+            "ISSN": "1097-0142",
+            "PMCID": "PMC8738114",
+            "PMID": "34614211",
+            "abstract": "Progress is occurring at a dizzying rate across all leukemias. Since the authors’ review of the topic in Cancer in 2018, numerous discoveries have been made that have improved the therapy and outcomes of several leukemia subsets. Hairy cell leukemia is potentially curable with a single course of cladribine followed by rituximab (10-year survival, \\geq90%). Acute promyelocytic leukemia is curable at a rate of 80% to 90% with a nonchemotherapy regimen of all-trans retinoic acid and arsenic trioxide. The cure rate for core-binding factor acute myeloid leukemia (AML) is \\geq75% with fludarabine, high-dose cytarabine, and gemtuzumab ozogamicin. Survival for patients with chronic myeloid leukemia is close to that for an age-matched normal population with BCR-ABL1 tyrosine kinase inhibitors (TKIs). Chronic lymphocytic leukemia, a previously incurable disease, may now be potentially curable with a finite duration of therapy with Bruton tyrosine kinase inhibitors and venetoclax. The estimated 5-year survival rate for patients with Philadelphia chromosome-positive acute lymphoblastic leukemia (ALL) exceeds 70% with intensive chemotherapy and ponatinib, a third-generation BCR-ABL1 TKI, and more recent nonchemotherapy regimens using dasatinib or ponatinib with blinatumomab are producing outstanding results. Survival in both younger and older patients with ALL has improved with the addition of antibodies targeting CD20, CD19 (blinatumomab), and CD22 (inotuzumab) to chemotherapy. Several recent drug discoveries (venetoclax, FLT3 and IDH inhibitors, and oral hypomethylating agents) are also improving outcomes for younger and older patients with AML and for those with higher risk myelodysplastic syndrome.",
+            "author": [
+                {
+                    "family": "Kantarjian",
+                    "given": "Hagop M."
+                },
+                {
+                    "family": "Jain",
+                    "given": "Nitin"
+                },
+                {
+                    "family": "Garcia-Manero",
+                    "given": "Guillermo"
+                },
+                {
+                    "family": "Welch",
+                    "given": "Mary Alma"
+                },
+                {
+                    "family": "Ravandi",
+                    "given": "Farhad"
+                },
+                {
+                    "family": "Wierda",
+                    "given": "William G."
+                },
+                {
+                    "family": "Jabbour",
+                    "given": "Elias J."
+                }
+            ],
+            "container-title": "Cancer",
+            "id": "kantarjian2022J",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "Antineoplastic Combined Chemotherapy Protocols,Cytarabine,Fusion Proteins; bcr-abl,Gemtuzumab,Humans,leukemia,Leukemia; Myeloid; Acute,prognosis,progress,Protein Kinase Inhibitors,therapy,updates",
+            "language": "en-US",
+            "page": "240-259",
+            "title": "The cure of leukemia through the optimist’s prism",
+            "type": "article-journal",
+            "volume": "128"
+        },
+        {
+            "DOI": "10.1056/NEJMoa1509388",
+            "ISSN": "0028-4793, 1533-4406",
+            "PMID": "26639149",
+            "author": [
+                {
+                    "family": "Burger",
+                    "given": "Jan A"
+                },
+                {
+                    "family": "Tedeschi",
+                    "given": "Alessandra"
+                },
+                {
+                    "family": "Barr",
+                    "given": "Paul M"
+                },
+                {
+                    "family": "Robak",
+                    "given": "Tadeusz"
+                },
+                {
+                    "family": "Owen",
+                    "given": "Carolyn"
+                },
+                {
+                    "family": "Ghia",
+                    "given": "Paolo"
+                },
+                {
+                    "family": "Bairey",
+                    "given": "Osnat"
+                },
+                {
+                    "family": "Hillmen",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Bartlett",
+                    "given": "Nancy L"
+                },
+                {
+                    "family": "Li",
+                    "given": "Jianyong"
+                },
+                {
+                    "family": "Simpson",
+                    "given": "David"
+                },
+                {
+                    "family": "Grosicki",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Devereux",
+                    "given": "Stephen"
+                },
+                {
+                    "family": "McCarthy",
+                    "given": "Helen"
+                },
+                {
+                    "family": "Coutre",
+                    "given": "Steven"
+                },
+                {
+                    "family": "Quach",
+                    "given": "Hang"
+                },
+                {
+                    "family": "Gaidano",
+                    "given": "Gianluca"
+                },
+                {
+                    "family": "Maslyak",
+                    "given": "Zvenyslava"
+                },
+                {
+                    "family": "Stevens",
+                    "given": "Don A"
+                },
+                {
+                    "family": "Janssens",
+                    "given": "Ann"
+                },
+                {
+                    "family": "Offner",
+                    "given": "Fritz"
+                },
+                {
+                    "family": "Mayer",
+                    "given": "Jiří"
+                },
+                {
+                    "family": "O’Dwyer",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Hellmann",
+                    "given": "Andrzej"
+                },
+                {
+                    "family": "Schuh",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Siddiqi",
+                    "given": "Tanya"
+                },
+                {
+                    "family": "Polliack",
+                    "given": "Aaron"
+                },
+                {
+                    "family": "Tam",
+                    "given": "Constantine S"
+                },
+                {
+                    "family": "Suri",
+                    "given": "Deepali"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Mei"
+                },
+                {
+                    "family": "Clow",
+                    "given": "Fong"
+                },
+                {
+                    "family": "Styles",
+                    "given": "Lori"
+                },
+                {
+                    "family": "James",
+                    "given": "Danelle F"
+                },
+                {
+                    "family": "Kipps",
+                    "given": "Thomas J"
+                },
+                {
+                    "literal": "RESONATE-2 Investigators"
+                }
+            ],
+            "container-title": "The New England journal of medicine",
+            "id": "burger2015",
+            "issue": "25",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2425-2437",
+            "publisher": "Mass Medical Soc",
+            "title": "Ibrutinib as Initial Therapy for Patients with Chronic Lymphocytic Leukemia",
+            "type": "article-journal",
+            "volume": "373"
+        },
+        {
+            "DOI": "10.1182/blood-2017-11-818286",
+            "ISSN": "0006-4971, 1528-0020",
+            "PMID": "29437588",
+            "author": [
+                {
+                    "family": "Ghez",
+                    "given": "David"
+                },
+                {
+                    "family": "Calleja",
+                    "given": "Anne"
+                },
+                {
+                    "family": "Protin",
+                    "given": "Caroline"
+                },
+                {
+                    "family": "Baron",
+                    "given": "Marine"
+                },
+                {
+                    "family": "Ledoux",
+                    "given": "Marie-Pierre"
+                },
+                {
+                    "family": "Damaj",
+                    "given": "Gandhi"
+                },
+                {
+                    "family": "Dupont",
+                    "given": "Mathieu"
+                },
+                {
+                    "family": "Dreyfus",
+                    "given": "Brigitte"
+                },
+                {
+                    "family": "Ferrant",
+                    "given": "Emmanuelle"
+                },
+                {
+                    "family": "Herbaux",
+                    "given": "Charles"
+                },
+                {
+                    "family": "Laribi",
+                    "given": "Kamel"
+                },
+                {
+                    "family": "Le Calloch",
+                    "given": "Ronan"
+                },
+                {
+                    "family": "Malphettes",
+                    "given": "Marion"
+                },
+                {
+                    "family": "Paul",
+                    "given": "Franciane"
+                },
+                {
+                    "family": "Souchet",
+                    "given": "Laetitia"
+                },
+                {
+                    "family": "Truchan-Graczyk",
+                    "given": "Malgorzata"
+                },
+                {
+                    "family": "Delavigne",
+                    "given": "Karen"
+                },
+                {
+                    "family": "Dartigeas",
+                    "given": "Caroline"
+                },
+                {
+                    "family": "Ysebaert",
+                    "given": "Loïc"
+                },
+                {
+                    "literal": "French Innovative Leukemia Organization (FILO) CLL group"
+                }
+            ],
+            "container-title": "Blood",
+            "id": "ghez2018",
+            "issue": "17",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1955-1959",
+            "publisher": "Am Soc Hematology",
+            "title": "Early-onset invasive aspergillosis and other fungal infections in patients treated with ibrutinib",
+            "type": "article-journal",
+            "volume": "131"
+        },
+        {
+            "DOI": "10.1093/cid/cix687",
+            "ISSN": "1058-4838, 1537-6591",
+            "PMID": "29029010",
+            "author": [
+                {
+                    "family": "Chamilos",
+                    "given": "Georgios"
+                },
+                {
+                    "family": "Lionakis",
+                    "given": "Michail S"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                }
+            ],
+            "container-title": "Clinical infectious diseases: an official publication of the Infectious Diseases Society of America",
+            "id": "chamilos2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        1
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "140-148",
+            "title": "Call for Action: Invasive Fungal Infections Associated With Ibrutinib and Other Small Molecule Kinase Inhibitors Targeting Immune Signaling Pathways",
+            "title-short": "Call for Action",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.1093/cid/ciy175",
+            "ISSN": "1058-4838, 1537-6591",
+            "PMID": "29509845",
+            "author": [
+                {
+                    "family": "Varughese",
+                    "given": "Tilly"
+                },
+                {
+                    "family": "Taur",
+                    "given": "Ying"
+                },
+                {
+                    "family": "Cohen",
+                    "given": "Nina"
+                },
+                {
+                    "family": "Palomba",
+                    "given": "M Lia"
+                },
+                {
+                    "family": "Seo",
+                    "given": "Susan K"
+                },
+                {
+                    "family": "Hohl",
+                    "given": "Tobias M"
+                },
+                {
+                    "family": "Redelman-Sidi",
+                    "given": "Gil"
+                }
+            ],
+            "container-title": "Clinical infectious diseases: an official publication of the Infectious Diseases Society of America",
+            "id": "varughese2018",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "687-692",
+            "title": "Serious Infections in Patients Receiving Ibrutinib for Treatment of Lymphoid Cancer",
+            "type": "article-journal",
+            "volume": "67"
+        },
+        {
+            "DOI": "10.1080/10428194.2020.1775215",
+            "ISSN": "1029-2403",
+            "PMID": "32530347",
+            "author": [
+                {
+                    "family": "Frei",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Aitken",
+                    "given": "Samuel L."
+                },
+                {
+                    "family": "Jain",
+                    "given": "Nitin"
+                },
+                {
+                    "family": "Thompson",
+                    "given": "Philip"
+                },
+                {
+                    "family": "Wierda",
+                    "given": "William"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P."
+                },
+                {
+                    "family": "DiPippo",
+                    "given": "Adam J."
+                }
+            ],
+            "container-title": "Leukemia & Lymphoma",
+            "id": "frei2020J",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "Adenine,Humans,Incidence,Leukemia; Lymphocytic; Chronic; B-Cell,Mycoses,Piperidines,Pyrazoles",
+            "language": "en-US",
+            "page": "2488-2491",
+            "title": "Incidence and characterization of fungal infections in chronic lymphocytic leukemia patients receiving ibrutinib",
+            "type": "article-journal",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1016/S2352-3026(22)00073-4",
+            "ISSN": "2352-3026",
+            "abstract": "On the basis of improved overall survival, treatment guidelines strongly recommend antifungal prophylaxis during remission induction chemotherapy for patients with acute myeloid leukaemia. Many novel targeted agents are metabolised by cytochrome P450, but potential drugdrug interactions (DDIs) and the resulting riskbenefit ratio have not been assessed in clinical trials, leading to uncertainty in clinical management. Consequently, the European Haematology Association commissioned experts in the field of infectious diseases, haematology, oncology, clinical pharmacology, and methodology to develop up-to-date recommendations on the role of antifungal prophylaxis and management of pharmacokinetic DDIs with triazole antifungals. A systematic literature review was performed according to Cochrane methods, and recommendations were developed by use of the Grading of Recommendations Assessment, Development and Evaluation Evidence to Decision framework. We searched MEDLINE, Embase, and Cochrane Library, including Central Register of Controlled Trials, for randomised controlled trials and systematic reviews published from inception to March 10, 2020. We excluded studies that were not published in English. Evidence for any identified novel agent that is active against acute myeloid leukaemia was reviewed for the following outcomes: incidence of invasive fungal disease, prolongation of hospitalisation, days spent in intensive-care unit, mortality due to invasive fungal disease, quality of life, and potential DDIs. Recommendations and consensus statements were compiled for each targeted drug for patients with acute myeloid leukaemia and each specific setting. Evidence-based recommendations were developed for hypomethylating agents, midostaurin, and the venetoclaxhypomethylating agent combination. For all other agents, consensus statements were given for specific therapeutic settings, specifically for the management of patients with relapsed or refractory acute myeloid leukaemia, monotherapy, and combination with chemotherapy. Antifungal prophylaxis is recommended with moderate strength in most settings, and strongly recommended if the novel acute myeloid leukaemia agent is administered in combination with intensive induction chemotherapy. For ivosidenib, lestaurtinib, quizartinib, and venetoclax, we moderately recommend adjusting the dose of the antileukaemic agent during administration of triazoles. This is the first guidance supporting clinical decision making on antifungal prophylaxis in recipients of novel targeted drugs for acute myeloid leukaemia. Future studies including therapeutic drug monitoring will need to determine the role of dosage adjustment of novel antileukaemic drugs during concomitant administration of CYP3A4-inhibiting antifungals with respect to adverse effects and remission status.",
+            "author": [
+                {
+                    "family": "Stemler",
+                    "given": "Jannik"
+                },
+                {
+                    "family": "Jonge",
+                    "given": "Nick",
+                    "non-dropping-particle": "de"
+                },
+                {
+                    "family": "Skoetz",
+                    "given": "Nicole"
+                },
+                {
+                    "family": "Sinkó",
+                    "given": "János"
+                },
+                {
+                    "family": "Brüggemann",
+                    "given": "Roger J"
+                },
+                {
+                    "family": "Busca",
+                    "given": "Alessandro"
+                },
+                {
+                    "family": "Ben-Ami",
+                    "given": "Ronen"
+                },
+                {
+                    "family": "Ráčil",
+                    "given": "Zdeněk"
+                },
+                {
+                    "family": "Piechotta",
+                    "given": "Vanessa"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Russell"
+                },
+                {
+                    "family": "Cornely",
+                    "given": "Oliver A"
+                }
+            ],
+            "container-title": "The Lancet Haematology",
+            "id": "stemler2022J",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "e361-e373",
+            "title": "Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies: A systematic review and expert consensus recommendation from the European Hematology Association",
+            "title-short": "Antifungal prophylaxis in adult patients with acute myeloid leukaemia treated with novel targeted therapies",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1086/598327",
+            "ISSN": "1058-4838",
+            "abstract": "There are currently a number of licensed azole antifungal drugs; however; only 4 (namely, fluconazole, itraconazole, posaconazole, and voriconazole) are used frequently in a clinical setting for prophylaxis or treatment of systemic fungal infections. In this article, we review the pharmacokinetic interactions of these azole antifungal drugs with other coadministered agents. We describe these (2-way) interactions and the extent to which metabolic pathways and/or other supposed mechanisms are involved in these interactions. This article provides an overview of all published drug-drug interactions in humans (either healthy volunteers or patients), and on the basis of these findings, we have developed recommendations for managing the specific interactions.",
+            "author": [
+                {
+                    "family": "Brüggemann",
+                    "given": "Roger J. M."
+                },
+                {
+                    "family": "Alffenaar",
+                    "given": "Jan-Willem C."
+                },
+                {
+                    "family": "Blijlevens",
+                    "given": "Nicole M. A."
+                },
+                {
+                    "family": "Billaud",
+                    "given": "Eliane M."
+                },
+                {
+                    "family": "Kosterink",
+                    "given": "Jos G. W."
+                },
+                {
+                    "family": "Verweij",
+                    "given": "Paul E."
+                },
+                {
+                    "family": "Burger",
+                    "given": "David M."
+                },
+                {
+                    "family": "Saravolatz",
+                    "given": "Louis D."
+                }
+            ],
+            "container-title": "Clinical Infectious Diseases",
+            "id": "bruggemann2009a",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        5
+                    ]
+                ]
+            },
+            "page": "1441-1458",
+            "title": "Clinical Relevance of the Pharmacokinetic Interactions of Azole Antifungal Drugs with Other Coadministered Agents",
+            "type": "article-journal",
+            "volume": "48"
+        },
+        {
+            "DOI": "10.1128/AAC.00054-16",
+            "ISSN": "0066-4804, 1098-6596",
+            "PMID": "27001815",
+            "author": [
+                {
+                    "family": "Andes",
+                    "given": "David"
+                },
+                {
+                    "family": "Azie",
+                    "given": "Nkechi"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Hongbo"
+                },
+                {
+                    "family": "Harrington",
+                    "given": "Rachel"
+                },
+                {
+                    "family": "Kelley",
+                    "given": "Caroline"
+                },
+                {
+                    "family": "Tan",
+                    "given": "Ruo-Ding"
+                },
+                {
+                    "family": "Wu",
+                    "given": "Eric Q"
+                },
+                {
+                    "family": "Franks",
+                    "given": "Billy"
+                },
+                {
+                    "family": "Kristy",
+                    "given": "Rita"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Edward"
+                },
+                {
+                    "family": "Khandelwal",
+                    "given": "Nikhil"
+                },
+                {
+                    "family": "Spalding",
+                    "given": "James"
+                }
+            ],
+            "container-title": "Antimicrobial agents and chemotherapy",
+            "id": "andes2016",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "3398-3406",
+            "title": "Drug-Drug Interaction Associated with Mold-Active Triazoles among Hospitalized Patients",
+            "type": "article-journal",
+            "volume": "60"
+        },
+        {
+            "DOI": "10.1016/S2352-3026(21)00232-5",
+            "ISSN": "23523026",
+            "author": [
+                {
+                    "family": "Brüggemann",
+                    "given": "Roger J"
+                },
+                {
+                    "family": "Verheggen",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Boerrigter",
+                    "given": "Emmy"
+                },
+                {
+                    "family": "Stanzani",
+                    "given": "Marta"
+                },
+                {
+                    "family": "Verweij",
+                    "given": "Paul E"
+                },
+                {
+                    "family": "Blijlevens",
+                    "given": "Nicole M A"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Russell E"
+                }
+            ],
+            "container-title": "The Lancet Haematology",
+            "id": "bruggemann2022",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "e58-e72",
+            "title": "Management of drugdrug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1182/hematology.2020000089",
+            "ISSN": "1520-4391, 1520-4383",
+            "PMID": "33275692",
+            "author": [
+                {
+                    "family": "Wang",
+                    "given": "Eunice S"
+                },
+                {
+                    "family": "Baron",
+                    "given": "Jeffrey"
+                }
+            ],
+            "container-title": "Hematology / the Education Program of the American Society of Hematology. American Society of Hematology. Education Program",
+            "id": "wang2020a",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "57-66",
+            "title": "Management of toxicities associated with targeted therapies for acute myeloid leukemia: When to push through and when to stop",
+            "title-short": "Management of toxicities associated with targeted therapies for acute myeloid leukemia",
+            "type": "article-journal",
+            "volume": "2020"
+        },
+        {
+            "DOI": "10.1007/s00280-020-04179-w",
+            "ISSN": "1432-0843",
+            "PMID": "33398386",
+            "abstract": "PURPOSE: Venetoclax, a targeted anticancer agent approved for the treatment of chronic lymphocytic leukemia and acute myeloid leukemia, is a substrate of cytochrome P450 (CYP) 3A enzyme (CYP3A4). Posaconazole, commonly used to prevent invasive fungal infections in neutropenic patients with hematological malignancies, potently inhibits CYP3A4. The purpose of this evaluation was to predict venetoclax exposures following co-administration of posaconazole at doses not previously studied clinically. METHODS: Two physiologically based pharmacokinetic (PBPK) models were developed for posaconazole based on published parameters, one for an oral suspension and another for delayed released tablets. Parameter optimization, guided by sensitivity analyses, was conducted such that the models could replicate clinical exposures of posaconazole and drug-drug interactions with sensitive CYP3A substrates including venetoclax. The clinically verified posaconazole PBPK models were then utilized to predict DDI with a previously published venetoclax PBPK model at clinically relevant dosing scenarios. RESULTS: The posaconazole PBPK models predicted posaconazole exposure and DDI related fold changes with acceptable prediction errors for both posaconazole formulations. The model predicted exposures of venetoclax, when co-administered with a 300 mg QD dose of delayed release tablets of posaconazole, were in concordance with observed data. Increasing the posaconazole dose to 500 mg QD increased venetoclax exposures by about 12% relative to 300 mg QD, which were still within the venetoclax safe exposure range. CONCLUSIONS: The posaconazole PBPK models were developed and clinically verified. Predictions using the robust PBPK model confirmed the venetoclax label recommendation of 70 mg in the presence of posaconazole at doses up to 500 mg QD.",
+            "author": [
+                {
+                    "family": "Bhatnagar",
+                    "given": "Sumit"
+                },
+                {
+                    "family": "Mukherjee",
+                    "given": "Dwaipayan"
+                },
+                {
+                    "family": "Salem",
+                    "given": "Ahmed Hamed"
+                },
+                {
+                    "family": "Miles",
+                    "given": "Dale"
+                },
+                {
+                    "family": "Menon",
+                    "given": "Rajeev M."
+                },
+                {
+                    "family": "Gibbs",
+                    "given": "John P."
+                }
+            ],
+            "container-title": "Cancer Chemotherapy and Pharmacology",
+            "id": "bhatnagar2021J",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "Adult,Bridged Bicyclo Compounds; Heterocyclic,CYP3A4,Cytochrome P-450 CYP3A Inhibitors,DDI,Dose adjustment,Drug Interactions,Humans,Middle Aged,Models; Biological,PBPK,Posaconazole,Sulfonamides,Triazoles,Venetoclax",
+            "language": "en-US",
+            "page": "465-474",
+            "title": "Dose adjustment of venetoclax when co-administered with posaconazole: Clinical drug-drug interaction predictions using a PBPK approach",
+            "title-short": "Dose adjustment of venetoclax when co-administered with posaconazole",
+            "type": "article-journal",
+            "volume": "87"
+        },
+        {
+            "DOI": "10.1007/s00277-020-04186-0",
+            "ISSN": "0939-5555, 1432-0584",
+            "abstract": "Several small molecule inhibitors (SMIs) have been recently approved for AML patients. These targeted therapies could be more tolerable than classical antineoplastics, but potential drug-drug interactions (DDI) are relatively frequent. Underestimation or lack of appropriate awareness and management of DDIs with SMIs can jeopardize therapeutic success in AML patients, which often require multiple concomitant medications in the context of prior comorbidities or for the prevention and treatment of infectious and other complications. In this systematic review, we analyze DDIs of glasdegib, venetoclax, midostaurin, quizartinib, gilteritinib, enasidenib, and ivosidenib. CYP3A4 is the main enzyme responsible for SMIs metabolism, and strong CYP3A4 inhibitors, such azoles, could increase drug exposure and toxicity; therefore dose adjustments (venetoclax, quizartinib, and ivosidenib) or alternative therapies or close monitoring (glasdegib, midostaurin, and gilteritinib) are recommended. Besides, coadministration of strong CYP3A4 inducers with SMIs should be avoided due to potential decrease of efficacy. Regarding tolerability, QTc prolongation is frequently observed for most of approved SMIs, and drugs with a potential to prolong the QTc interval and CYP3A4 inhibitors should be avoided and replaced by alternative treatments. In this study, we critically assess the DDIs of SMIs, and we summarize best management options for these new drugs and concomitant medications.",
+            "author": [
+                {
+                    "family": "Megías-Vericat",
+                    "given": "Juan Eduardo"
+                },
+                {
+                    "family": "Solana-Altabella",
+                    "given": "Antonio"
+                },
+                {
+                    "family": "Ballesta-López",
+                    "given": "Octavio"
+                },
+                {
+                    "family": "Martínez-Cuadrón",
+                    "given": "David"
+                },
+                {
+                    "family": "Montesinos",
+                    "given": "Pau"
+                }
+            ],
+            "container-title": "Annals of Hematology",
+            "id": "megias-vericat2020J",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1989-2007",
+            "title": "Drug-drug interactions of newly approved small molecule inhibitors for acute myeloid leukemia",
+            "type": "article-journal",
+            "volume": "99"
+        },
+        {
+            "DOI": "10.1182/blood-2019-131988",
+            "ISSN": "0006-4971, 1528-0020",
+            "author": [
+                {
+                    "family": "Rausch",
+                    "given": "Caitlin R"
+                },
+                {
+                    "family": "DiNardo",
+                    "given": "Courtney D"
+                },
+                {
+                    "family": "Maiti",
+                    "given": "Abhishek"
+                },
+                {
+                    "family": "Jammal",
+                    "given": "Nadya"
+                },
+                {
+                    "family": "Kadia",
+                    "given": "Tapan M"
+                },
+                {
+                    "family": "Marx",
+                    "given": "Kayleigh"
+                },
+                {
+                    "family": "Borthakur",
+                    "given": "Gautam M"
+                },
+                {
+                    "family": "Savoy",
+                    "given": "J Michael"
+                },
+                {
+                    "family": "Pemmaraju",
+                    "given": "Naveen"
+                },
+                {
+                    "family": "Dipippo",
+                    "given": "Adam"
+                },
+                {
+                    "family": "Daver",
+                    "given": "Naval G"
+                },
+                {
+                    "family": "Chew",
+                    "given": "Serena"
+                },
+                {
+                    "family": "Sasaki",
+                    "given": "Koji"
+                },
+                {
+                    "family": "Issa",
+                    "given": "Ghayas C"
+                },
+                {
+                    "family": "Naqvi",
+                    "given": "Kiran"
+                },
+                {
+                    "family": "Ravandi",
+                    "given": "Farhad"
+                },
+                {
+                    "family": "Kantarjian",
+                    "given": "Hagop M"
+                },
+                {
+                    "family": "Konopleva",
+                    "given": "Marina Y"
+                }
+            ],
+            "container-title": "Blood",
+            "id": "rausch2019",
+            "issue": "Supplement_1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        11
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2640-2640",
+            "publisher": "American Society of Hematology",
+            "title": "Venetoclax dosing in combination with antifungal agents: Real world experience in patients with acute myeloid leukemia",
+            "title-short": "Venetoclax dosing in combination with antifungal agents",
+            "type": "article-journal",
+            "volume": "134"
+        },
+        {
+            "DOI": "10.1128/AAC.01527-13",
+            "ISSN": "0066-4804, 1098-6596",
+            "PMID": "24590477",
+            "author": [
+                {
+                    "family": "Gomes",
+                    "given": "Marisa Z R"
+                },
+                {
+                    "family": "Jiang",
+                    "given": "Ying"
+                },
+                {
+                    "family": "Mulanovich",
+                    "given": "Victor E"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Russell E"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                }
+            ],
+            "container-title": "Antimicrobial agents and chemotherapy",
+            "id": "gomes2014",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2775-2780",
+            "publisher": "Am Soc Microbiol",
+            "title": "Effectiveness of primary anti-Aspergillus prophylaxis during remission induction chemotherapy of acute myeloid leukemia",
+            "type": "article-journal",
+            "volume": "58"
+        },
+        {
+            "DOI": "10.1111/tid.12237",
+            "ISSN": "1398-2273, 1399-3062",
+            "PMID": "24850416",
+            "author": [
+                {
+                    "family": "Trifilio",
+                    "given": "S"
+                },
+                {
+                    "family": "Mehta",
+                    "given": "J"
+                }
+            ],
+            "container-title": "Transplant infectious disease: an official journal of the Transplantation Society",
+            "id": "trifilio2014",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "548-555",
+            "title": "Antimicrobial prophylaxis in hematopoietic stem cell transplantation recipients: 10 years after",
+            "title-short": "Antimicrobial prophylaxis in hematopoietic stem cell transplantation recipients",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1016/j.idc.2021.03.005",
+            "ISSN": "0891-5520",
+            "author": [
+                {
+                    "family": "Johnson",
+                    "given": "Melissa D."
+                }
+            ],
+            "collection-title": "Fungal Infections",
+            "container-title": "Infectious Disease Clinics of North America",
+            "id": "johnson2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Antifungal drugs,Azoles,Echinocandins,Invasive fungal infections,Novel therapies,Pipeline,Polyenes,Review",
+            "language": "en-US",
+            "page": "341-371",
+            "title": "Antifungals in Clinical Use and the Pipeline",
+            "type": "article-journal",
+            "volume": "35"
+        },
+        {
+            "DOI": "10.4065/mcp.2011.0247",
+            "author": [
+                {
+                    "family": "Lewis",
+                    "given": "R. E."
+                }
+            ],
+            "container-title": "Mayo Clinic Proceedings",
+            "id": "Lewis2011805",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "805-817",
+            "title": "Current concepts in antifungal pharmacology",
+            "type": "article-journal",
+            "volume": "86"
+        },
+        {
+            "DOI": "10.1016/S0140-6736(15)01159-9",
+            "ISSN": "0140-6736, 1474-547X",
+            "PMID": "26684607",
+            "author": [
+                {
+                    "family": "Maertens",
+                    "given": "Johan A"
+                },
+                {
+                    "family": "Raad",
+                    "given": "Issam I"
+                },
+                {
+                    "family": "Marr",
+                    "given": "Kieren A"
+                },
+                {
+                    "family": "Patterson",
+                    "given": "Thomas F"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                },
+                {
+                    "family": "Cornely",
+                    "given": "Oliver A"
+                },
+                {
+                    "family": "Bow",
+                    "given": "Eric J"
+                },
+                {
+                    "family": "Rahav",
+                    "given": "Galia"
+                },
+                {
+                    "family": "Neofytos",
+                    "given": "Dionysios"
+                },
+                {
+                    "family": "Aoun",
+                    "given": "Mickael"
+                },
+                {
+                    "family": "Baddley",
+                    "given": "John W"
+                },
+                {
+                    "family": "Giladi",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Heinz",
+                    "given": "Werner J"
+                },
+                {
+                    "family": "Herbrecht",
+                    "given": "Raoul"
+                },
+                {
+                    "family": "Hope",
+                    "given": "William"
+                },
+                {
+                    "family": "Karthaus",
+                    "given": "Meinolf"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Dong-Gun"
+                },
+                {
+                    "family": "Lortholary",
+                    "given": "Olivier"
+                },
+                {
+                    "family": "Morrison",
+                    "given": "Vicki A"
+                },
+                {
+                    "family": "Oren",
+                    "given": "Ilana"
+                },
+                {
+                    "family": "Selleslag",
+                    "given": "Dominik"
+                },
+                {
+                    "family": "Shoham",
+                    "given": "Shmuel"
+                },
+                {
+                    "family": "Thompson",
+                    "given": "George R",
+                    "suffix": "3rd"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Misun"
+                },
+                {
+                    "family": "Maher",
+                    "given": "Rochelle M"
+                },
+                {
+                    "family": "Schmitt-Hoffmann",
+                    "given": "Anne-Hortense"
+                },
+                {
+                    "family": "Zeiher",
+                    "given": "Bernhardt"
+                },
+                {
+                    "family": "Ullmann",
+                    "given": "Andrew J"
+                }
+            ],
+            "container-title": "The Lancet",
+            "id": "maertens2016",
+            "issue": "10020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "760-769",
+            "publisher": "Elsevier",
+            "title": "Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by Aspergillus and other filamentous fungi (SECURE): A phase 3, randomised-controlled, non-inferiority trial",
+            "title-short": "Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by Aspergillus and other filamentous fungi (SECURE)",
+            "type": "article-journal",
+            "volume": "387"
+        },
+        {
+            "DOI": "10.1002/cpt.620",
+            "ISSN": "0009-9236, 1532-6535",
+            "PMID": "28074556",
+            "author": [
+                {
+                    "family": "Keirns",
+                    "given": "J"
+                },
+                {
+                    "family": "Desai",
+                    "given": "A"
+                },
+                {
+                    "family": "Kowalski",
+                    "given": "D"
+                },
+                {
+                    "family": "Lademacher",
+                    "given": "C"
+                },
+                {
+                    "family": "Mujais",
+                    "given": "S"
+                },
+                {
+                    "family": "Parker",
+                    "given": "B"
+                },
+                {
+                    "family": "Schneidkraut",
+                    "given": "M J"
+                },
+                {
+                    "family": "Townsend",
+                    "given": "R"
+                },
+                {
+                    "family": "Wojtkowski",
+                    "given": "T"
+                },
+                {
+                    "family": "Yamazaki",
+                    "given": "T"
+                },
+                {
+                    "family": "Yen",
+                    "given": "M"
+                },
+                {
+                    "family": "Kowey",
+                    "given": "P R"
+                }
+            ],
+            "container-title": "Clinical pharmacology and therapeutics",
+            "id": "keirns2017",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "782-790",
+            "title": "QT Interval Shortening With Isavuconazole: In Vitro and In Vivo Effects on Cardiac Repolarization",
+            "title-short": "QT Interval Shortening With Isavuconazole",
+            "type": "article-journal",
+            "volume": "101"
+        },
+        {
+            "ISSN": "1073-8673",
+            "author": [
+                {
+                    "family": "Marty",
+                    "given": "Francisco M"
+                },
+                {
+                    "family": "Perfect",
+                    "given": "John R"
+                },
+                {
+                    "family": "Cornely",
+                    "given": "Oliver A"
+                },
+                {
+                    "family": "Mullane",
+                    "given": "Kathleen"
+                },
+                {
+                    "family": "Rahav",
+                    "given": "Galia"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Misun"
+                },
+                {
+                    "family": "Ito",
+                    "given": "Masanori"
+                },
+                {
+                    "family": "Maher",
+                    "given": "Rochelle"
+                },
+                {
+                    "family": "Zeiher",
+                    "given": "Bernhardt"
+                },
+                {
+                    "family": "Ostrosky-Zeichner",
+                    "given": "Luis"
+                }
+            ],
+            "container-title": "Risk",
+            "id": "marty2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "21-26",
+            "publisher": "idsa.confex.com",
+            "title": "An open-label phase 3 study of isavuconazole (VITAL): Focus on mucormycosis",
+            "title-short": "An open-label phase 3 study of isavuconazole (VITAL)",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "ISSN": "1073-8673",
+            "author": [
+                {
+                    "family": "Marty",
+                    "given": "Francisco M"
+                },
+                {
+                    "family": "Perfect",
+                    "given": "John R"
+                },
+                {
+                    "family": "Cornely",
+                    "given": "Oliver A"
+                },
+                {
+                    "family": "Mullane",
+                    "given": "Kathleen"
+                },
+                {
+                    "family": "Rahav",
+                    "given": "Galia"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Misun"
+                },
+                {
+                    "family": "Ito",
+                    "given": "Masanori"
+                },
+                {
+                    "family": "Maher",
+                    "given": "Rochelle"
+                },
+                {
+                    "family": "Zeiher",
+                    "given": "Bernhardt"
+                },
+                {
+                    "family": "Ostrosky-Zeichner",
+                    "given": "Luis"
+                }
+            ],
+            "container-title": "Risk",
+            "id": "marty2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "21-26",
+            "publisher": "idsa.confex.com",
+            "title": "An open-label phase 3 study of isavuconazole (VITAL): Focus on mucormycosis",
+            "title-short": "An open-label phase 3 study of isavuconazole (VITAL)",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1177/0897190018790688",
+            "ISSN": "0897-1900, 1531-1937",
+            "PMID": "30049245",
+            "author": [
+                {
+                    "family": "Kufel",
+                    "given": "Wesley D"
+                },
+                {
+                    "family": "Armistead",
+                    "given": "Paul M"
+                },
+                {
+                    "family": "Daniels",
+                    "given": "Lindsay M"
+                },
+                {
+                    "family": "Ptachcinski",
+                    "given": "Jonathan R"
+                },
+                {
+                    "family": "Alexander",
+                    "given": "Maurice D"
+                },
+                {
+                    "family": "Shaw",
+                    "given": "J Ryan"
+                }
+            ],
+            "container-title": "Journal of pharmacy practice",
+            "id": "kufel2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "897190018790688",
+            "title": "Drug-Drug Interaction Between Isavuconazole and Tacrolimus: Is Empiric Dose Adjustment Necessary?",
+            "title-short": "Drug-Drug Interaction Between Isavuconazole and Tacrolimus",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1111/tid.13007",
+            "ISSN": "1398-2273, 1399-3062",
+            "PMID": "30295407",
+            "author": [
+                {
+                    "family": "Kieu",
+                    "given": "Van"
+                },
+                {
+                    "family": "Jhangiani",
+                    "given": "Kristi"
+                },
+                {
+                    "family": "Dadwal",
+                    "given": "Sanjeet"
+                },
+                {
+                    "family": "Nakamura",
+                    "given": "Ryotaro"
+                },
+                {
+                    "family": "Pon",
+                    "given": "Doreen"
+                }
+            ],
+            "container-title": "Transplant infectious disease: an official journal of the Transplantation Society",
+            "id": "kieu2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "e13007",
+            "title": "Effect of isavuconazole on tacrolimus and sirolimus serum concentrations in allogeneic hematopoietic stem cell transplant patients: A drug-drug interaction study",
+            "title-short": "Effect of isavuconazole on tacrolimus and sirolimus serum concentrations in allogeneic hematopoietic stem cell transplant patients",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "author": [
+                {
+                    "family": "Groll",
+                    "given": "A H"
+                },
+                {
+                    "family": "Desai",
+                    "given": "A"
+                },
+                {
+                    "family": "Han",
+                    "given": "D"
+                },
+                {
+                    "family": "Howieson… - … in drug development",
+                    "given": "C"
+                },
+                {
+                    "literal": "2017"
+                }
+            ],
+            "container-title": "Wiley Online Library",
+            "id": "groll2017b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "title": "Pharmacokinetic assessment of drug-drug interactions of isavuconazole with the immunosuppressants cyclosporine, mycophenolic acid, prednisolone …",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1182/blood.V130.Suppl_1.3814.3814",
+            "ISSN": "0006-4971, 1528-0020",
+            "author": [
+                {
+                    "family": "Ouatas",
+                    "given": "Taoufik"
+                },
+                {
+                    "family": "Duval",
+                    "given": "Vincent"
+                },
+                {
+                    "family": "Sinclair",
+                    "given": "Karen"
+                },
+                {
+                    "family": "Berkowitz",
+                    "given": "Noah"
+                }
+            ],
+            "container-title": "Blood",
+            "id": "ouatas2017",
+            "issue": "Supplement 1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "3814-3814",
+            "publisher": "American Society of Hematology",
+            "title": "Concomitant Use of Midostaurin with Strong CYP3A4 Inhibitors: An Analysis from the Ratify Trial",
+            "title-short": "Concomitant Use of Midostaurin with Strong CYP3A4 Inhibitors",
+            "type": "article-journal",
+            "volume": "130"
+        },
+        {
+            "DOI": "10.1159/000513989",
+            "ISSN": "0009-3157, 1421-9794",
+            "PMID": "33677444",
+            "author": [
+                {
+                    "family": "Menna",
+                    "given": "Pierantonio"
+                },
+                {
+                    "family": "Salvatorelli",
+                    "given": "Emanuela"
+                },
+                {
+                    "family": "Del Principe",
+                    "given": "Maria Ilaria"
+                },
+                {
+                    "family": "Perrone",
+                    "given": "Salvatore"
+                },
+                {
+                    "family": "Pagano",
+                    "given": "Livio"
+                },
+                {
+                    "family": "Marchesi",
+                    "given": "Francesco"
+                },
+                {
+                    "family": "Minotti",
+                    "given": "Giorgio"
+                }
+            ],
+            "container-title": "Chemotherapy",
+            "id": "Menna2021-mb",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "47-52",
+            "title": "Choosing antifungals for the Midostaurin-Treated patient: Does CYP3A4 outweigh recommendations? A brief insight from real life",
+            "title-short": "Choosing antifungals for the Midostaurin-Treated patient",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "DOI": "10.1093/cid/ciaa358",
+            "ISSN": "1058-4838, 1537-6591",
+            "PMID": "32236406",
+            "author": [
+                {
+                    "family": "Bose",
+                    "given": "Prithviraj"
+                },
+                {
+                    "family": "McCue",
+                    "given": "David"
+                },
+                {
+                    "family": "Wurster",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Wiederhold",
+                    "given": "Nathan P"
+                },
+                {
+                    "family": "Konopleva",
+                    "given": "Marina"
+                },
+                {
+                    "family": "Kadia",
+                    "given": "Tapan M"
+                },
+                {
+                    "family": "Borthakur",
+                    "given": "Gautam"
+                },
+                {
+                    "family": "Ravandi",
+                    "given": "Farhad"
+                },
+                {
+                    "family": "Masarova",
+                    "given": "Lucia"
+                },
+                {
+                    "family": "Takahashi",
+                    "given": "Koichi"
+                },
+                {
+                    "family": "Zeev",
+                    "given": "Estrov"
+                },
+                {
+                    "family": "Yilmaz",
+                    "given": "Musa"
+                },
+                {
+                    "family": "Daver",
+                    "given": "Naval"
+                },
+                {
+                    "family": "Pemmaraju",
+                    "given": "Naveen"
+                },
+                {
+                    "family": "Naqvi",
+                    "given": "Kiran"
+                },
+                {
+                    "family": "Rausch",
+                    "given": "Caitlin R"
+                },
+                {
+                    "family": "Marx",
+                    "given": "Kayleigh R"
+                },
+                {
+                    "family": "Qiao",
+                    "given": "Wei"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Xuelin"
+                },
+                {
+                    "family": "Bivins",
+                    "given": "Carol A"
+                },
+                {
+                    "family": "Pierce",
+                    "given": "Sherry A"
+                },
+                {
+                    "family": "Kantarjian",
+                    "given": "Hagop M"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                }
+            ],
+            "container-title": "Clinical infectious diseases: an official publication of the Infectious Diseases Society of America",
+            "id": "bose2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Isavuconazole as Primary Anti-Fungal Prophylaxis in Patients with Acute Myeloid Leukemia or Myelodysplastic Syndrome: An Open-Label, Prospective, Phase II Study",
+            "title-short": "Isavuconazole as Primary Anti-Fungal Prophylaxis in Patients with Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1093/cid/ciaa569",
+            "ISSN": "1058-4838",
+            "author": [
+                {
+                    "family": "Young",
+                    "given": "Jo-Anne H"
+                }
+            ],
+            "container-title": "Clinical infectious diseases: an official publication of the Infectious Diseases Society of America",
+            "id": "young2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5
+                    ]
+                ]
+            },
+            "title": "Both “small ball” and “big inning” teams are progressing the value of antifungal prophylaxis among hematologic malignancy patients",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1093/cid/ciaa569",
+            "ISSN": "1058-4838, 1537-6591",
+            "PMID": "32424426",
+            "author": [
+                {
+                    "family": "Young",
+                    "given": "Jo-Anne H"
+                }
+            ],
+            "container-title": "Clinical infectious diseases: an official publication of the Infectious Diseases Society of America",
+            "id": "Young2021-jx",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1764-1766",
+            "title": "Both “Small Ball” and “Big inning” teams are progressing the value of antifungal prophylaxis among patients with hematologic malignancy",
+            "type": "article-journal",
+            "volume": "72"
+        },
+        {
+            "DOI": "10.1128/AAC.00188-17",
+            "ISSN": "0066-4804, 1098-6596",
+            "PMID": "28507111",
+            "author": [
+                {
+                    "family": "Tverdek",
+                    "given": "Frank P"
+                },
+                {
+                    "family": "Heo",
+                    "given": "Sang Taek"
+                },
+                {
+                    "family": "Aitken",
+                    "given": "Samuel L"
+                },
+                {
+                    "family": "Granwehr",
+                    "given": "Bruno"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                }
+            ],
+            "container-title": "Antimicrobial agents and chemotherapy",
+            "id": "tverdek2017",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Real-Life Assessment of the Safety and Effectiveness of the New Tablet and Intravenous Formulations of Posaconazole in the Prophylaxis of Invasive Fungal Infections via Analysis of 343 Courses",
+            "type": "article-journal",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1128/AAC.00188-17",
+            "ISSN": "0066-4804, 1098-6596",
+            "PMID": "28507111",
+            "author": [
+                {
+                    "family": "Tverdek",
+                    "given": "Frank P"
+                },
+                {
+                    "family": "Heo",
+                    "given": "Sang Taek"
+                },
+                {
+                    "family": "Aitken",
+                    "given": "Samuel L"
+                },
+                {
+                    "family": "Granwehr",
+                    "given": "Bruno"
+                },
+                {
+                    "family": "Kontoyiannis",
+                    "given": "Dimitrios P"
+                }
+            ],
+            "container-title": "Antimicrobial agents and chemotherapy",
+            "id": "Tverdek2017-gh",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Real-Life assessment of the safety and effectiveness of the new tablet and intravenous formulations of posaconazole in the prophylaxis of invasive fungal infections via analysis of 343 courses",
+            "type": "article-journal",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1007/s40121-022-00661-5",
+            "ISSN": "2193-6382",
+            "abstract": "“Real-world” data for mold-active triazoles (MATs) in the treatment of invasive fungal infections (IFIs) are lacking. This study evaluated usage of MATs in a disease registry for the management of IFIs.",
+            "author": [
+                {
+                    "family": "Ostrosky-Zeichner",
+                    "given": "L."
+                },
+                {
+                    "family": "Nguyen",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Bubalo",
+                    "given": "J."
+                },
+                {
+                    "family": "Alexander",
+                    "given": "B. D."
+                },
+                {
+                    "family": "Miceli",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Pappas",
+                    "given": "P. G."
+                },
+                {
+                    "family": "Jiang",
+                    "given": "J."
+                },
+                {
+                    "family": "Song",
+                    "given": "Y."
+                },
+                {
+                    "family": "Thompson",
+                    "given": "G. R."
+                }
+            ],
+            "container-title": "Infectious Diseases and Therapy",
+            "id": "ostrosky-zeichner2022J",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Antifungal treatment,Disease registry,Invasive fungal infections,Isavuconazole,Mold infection,Posaconazole,Prospective observational study,Real-world,Triazole,Voriconazole",
+            "language": "en-US",
+            "title": "Multicenter Registry of Patients Receiving Systemic Mold-Active Triazoles for the Management of Invasive Fungal Infections",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ostroskey-Zeichner, L"
+                },
+                {
+                    "family": "Nguyen",
+                    "given": "MH"
+                },
+                {
+                    "literal": "Bubalo, J."
+                },
+                {
+                    "literal": "Alexander, B.J."
+                },
+                {
+                    "family": "Miceli",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Pappas",
+                    "given": "P."
+                },
+                {
+                    "literal": "Song, Y"
+                },
+                {
+                    "literal": "Thompson, G.R."
+                }
+            ],
+            "container-title": "31st European Conference on Clinical Microbiology and Infectious Diseases",
+            "id": "ostroskey-zeichnerl2021J",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "publisher-place": "Online",
+            "title": "Multicenter registry of patients recieving systemic mould-active triazoles for treatment or prophylaxis of fungal infections",
+            "type": "paper-conference"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ostroskey-Zeichner, L"
+                },
+                {
+                    "family": "Nguyen",
+                    "given": "MH"
+                },
+                {
+                    "literal": "Bubalo, J."
+                },
+                {
+                    "literal": "Alexander, B.J."
+                },
+                {
+                    "family": "Miceli",
+                    "given": "M. H."
+                },
+                {
+                    "family": "Pappas",
+                    "given": "P."
+                },
+                {
+                    "literal": "Song, Y"
+                },
+                {
+                    "literal": "Thompson, G.R."
+                }
+            ],
+            "container-title": "31st European Conference on Clinical Microbiology and Infectious Diseases",
+            "id": "ostroskey-zeichnerl2021J",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "publisher-place": "Online",
+            "title": "Multicenter registry of patients recieving systemic mould-active triazoles for treatment or prophylaxis of fungal infections",
+            "type": "paper-conference"
+        },
+        {
+            "DOI": "10.1172/JCI176142",
+            "URL": "https://www.jci.org/articles/view/176142",
+            "author": [
+                {
+                    "family": "Desai",
+                    "given": "Jigar V."
+                },
+                {
+                    "family": "Zarakas",
+                    "given": "Marissa A."
+                },
+                {
+                    "family": "Wishart",
+                    "given": "Andrew L."
+                },
+                {
+                    "family": "Roschewski",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Aufiero",
+                    "given": "Mariano A."
+                },
+                {
+                    "family": "Donkó",
+                    "given": "Ágnes"
+                },
+                {
+                    "family": "Wigerblad",
+                    "given": "Gustaf"
+                },
+                {
+                    "family": "Shlezinger",
+                    "given": "Neta"
+                },
+                {
+                    "family": "Plate",
+                    "given": "Markus"
+                },
+                {
+                    "family": "James",
+                    "given": "Matthew R."
+                },
+                {
+                    "family": "Lim",
+                    "given": "Jean K."
+                },
+                {
+                    "family": "Uzel",
+                    "given": "Gulbu"
+                },
+                {
+                    "family": "Bergerson",
+                    "given": "Jenna R. E."
+                },
+                {
+                    "family": "Fuss",
+                    "given": "Ivan"
+                },
+                {
+                    "family": "Cramer",
+                    "given": "Robert A."
+                },
+                {
+                    "family": "Franco",
+                    "given": "Luis M."
+                },
+                {
+                    "family": "Clark",
+                    "given": "Emily S."
+                },
+                {
+                    "family": "Khan",
+                    "given": "Wasif N."
+                },
+                {
+                    "family": "Yamanaka",
+                    "given": "Daisuke"
+                },
+                {
+                    "family": "Chamilos",
+                    "given": "Georgios"
+                },
+                {
+                    "family": "El-Benna",
+                    "given": "Jamel"
+                },
+                {
+                    "family": "Kaplan",
+                    "given": "Mariana J."
+                },
+                {
+                    "family": "Staudt",
+                    "given": "Louis M."
+                },
+                {
+                    "family": "Leto",
+                    "given": "Thomas L."
+                },
+                {
+                    "family": "Holland",
+                    "given": "Steven M."
+                },
+                {
+                    "family": "Wilson",
+                    "given": "Wyndham H."
+                },
+                {
+                    "family": "Hohl",
+                    "given": "Tobias M."
+                },
+                {
+                    "family": "Lionakis",
+                    "given": "Michail S."
+                }
+            ],
+            "container-title": "The Journal of Clinical Investigation",
+            "id": "desai2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "PMID: 0",
+            "title": "BTK drives neutrophil activation for sterilizing antifungal immunity",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.15252/emmm.201404556",
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364943/",
+            "author": [
+                {
+                    "family": "Herbst",
+                    "given": "Susanne"
+                },
+                {
+                    "family": "Shah",
+                    "given": "Anand"
+                },
+                {
+                    "family": "Mazon Moya",
+                    "given": "Maria"
+                },
+                {
+                    "family": "Marzola",
+                    "given": "Vanessa"
+                },
+                {
+                    "family": "Jensen",
+                    "given": "Barbara"
+                },
+                {
+                    "family": "Reed",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Birrell",
+                    "given": "Mark A"
+                },
+                {
+                    "family": "Saijo",
+                    "given": "Shinobu"
+                },
+                {
+                    "family": "Mostowy",
+                    "given": "Serge"
+                },
+                {
+                    "family": "Shaunak",
+                    "given": "Sunil"
+                },
+                {
+                    "family": "Armstrong-James",
+                    "given": "Darius"
+                }
+            ],
+            "container-title": "EMBO Molecular Medicine",
+            "id": "herbst2015",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        3
+                    ]
+                ]
+            },
+            "note": "PMID: 25637383 PMCID: PMC4364943",
+            "page": "240-258",
+            "title": "Phagocytosis-dependent activation of a TLR9BTKcalcineurinNFAT pathway co-ordinates innate immunity to aspergillus fumigatus",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.1182/bloodadvances.2020003418",
+            "URL": "https://doi.org/10.1182/bloodadvances.2020003418",
+            "author": [
+                {
+                    "family": "Penack",
+                    "given": "Olaf"
+                },
+                {
+                    "family": "Peczynski",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Mohty",
+                    "given": "Mohamad"
+                },
+                {
+                    "family": "Yakoub-Agha",
+                    "given": "Ibrahim"
+                },
+                {
+                    "family": "Styczynski",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Montoto",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "Duarte",
+                    "given": "Rafael F."
+                },
+                {
+                    "family": "Kröger",
+                    "given": "Nicolaus"
+                },
+                {
+                    "family": "Schoemans",
+                    "given": "Hélène"
+                },
+                {
+                    "family": "Koenecke",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Peric",
+                    "given": "Zinaida"
+                },
+                {
+                    "family": "Basak",
+                    "given": "Grzegorz W."
+                }
+            ],
+            "container-title": "Blood Advances",
+            "id": "penack2020",
+            "issue": "24",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        17
+                    ]
+                ]
+            },
+            "page": "6283-6290",
+            "title": "How much has allogeneic stem cell transplant related mortality improved since the 1980s? A retrospective analysis from the EBMT",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.1038/s41409-019-0475-7",
+            "author": [
+                {
+                    "family": "Amandine Fayard"
+                },
+                {
+                    "family": "Fayard",
+                    "given": "Amandine"
+                },
+                {
+                    "family": "Berthelot",
+                    "given": "Philippe"
+                },
+                {
+                    "family": "Élisabeth Daguenet"
+                },
+                {
+                    "family": "Daguenet",
+                    "given": "Elisabeth"
+                },
+                {
+                    "family": "Didier Blaise"
+                },
+                {
+                    "family": "Blaise",
+                    "given": "Didier"
+                },
+                {
+                    "family": "Patrice Chevallier"
+                },
+                {
+                    "family": "Chevallier",
+                    "given": "Patrice"
+                },
+                {
+                    "family": "Hélène Labussière"
+                },
+                {
+                    "family": "Labussière",
+                    "given": "Hélène"
+                },
+                {
+                    "family": "Ana Berceanu"
+                },
+                {
+                    "family": "Berceanu",
+                    "given": "Ana"
+                },
+                {
+                    "family": "Ibrahim Yakoub-Agha"
+                },
+                {
+                    "family": "Yakoub-Agha",
+                    "given": "Ibrahim"
+                },
+                {
+                    "family": "Gèrard Socié"
+                },
+                {
+                    "family": "Socié",
+                    "given": "Gérard"
+                },
+                {
+                    "family": "A Charbonnier"
+                },
+                {
+                    "family": "Charbonnier",
+                    "given": "Amandine"
+                },
+                {
+                    "family": "Felipe Suárez"
+                },
+                {
+                    "family": "Suarez",
+                    "given": "Felipe"
+                },
+                {
+                    "family": "Anne Huynh"
+                },
+                {
+                    "family": "Huynh",
+                    "given": "Anne"
+                },
+                {
+                    "family": "Mélanie Mercier"
+                },
+                {
+                    "family": "Mercier",
+                    "given": "Mélanie"
+                },
+                {
+                    "family": "Claude-Eric Bulabois"
+                },
+                {
+                    "family": "Bulabois",
+                    "given": "Claude-Eric"
+                },
+                {
+                    "family": "Bruno Lioure"
+                },
+                {
+                    "family": "Lioure",
+                    "given": "Bruno"
+                },
+                {
+                    "family": "Sylvain Chantepie"
+                },
+                {
+                    "family": "Chantepie",
+                    "given": "Sylvain"
+                },
+                {
+                    "family": "Yves Béguin"
+                },
+                {
+                    "family": "Beguin",
+                    "given": "Yves"
+                },
+                {
+                    "family": "Yves Beguin"
+                },
+                {
+                    "family": "Jean-Henri Bourhis"
+                },
+                {
+                    "family": "Bourhis",
+                    "given": "Jean-Henri"
+                },
+                {
+                    "family": "Jean-Valère Malfuson"
+                },
+                {
+                    "family": "Malfuson",
+                    "given": "Jean-Valère"
+                },
+                {
+                    "family": "Laurence Clément"
+                },
+                {
+                    "family": "Clement",
+                    "given": "Laurence"
+                },
+                {
+                    "family": "Régis Peffault de la Tour"
+                },
+                {
+                    "dropping-particle": "de la",
+                    "family": "Tour",
+                    "given": "Regis Peffault"
+                },
+                {
+                    "family": "Jérôme Cornillon"
+                },
+                {
+                    "family": "Cornillon",
+                    "given": "Jérôme"
+                }
+            ],
+            "container-title": "Bone Marrow Transplantation",
+            "id": "amandinefayard2019",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        15
+                    ]
+                ]
+            },
+            "note": "DOI: 10.1038/s41409-019-0475-7 MAG ID: 2914470973 PMID: 30770870",
+            "page": "1586-1594",
+            "title": "Evaluation of infectious complications after haploidentical hematopoietic stem cell transplantation with post-transplant cyclophosphamide following reduced-intensity and myeloablative conditioning: A study on behalf of the francophone society of stem cell transplantation and cellular therapy (SFGM-TC).",
+            "title-short": "Evaluation of infectious complications after haploidentical hematopoietic stem cell transplantation with post-transplant cyclophosphamide following reduced-intensity and myeloablative conditioning",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "DOI": "10.3390/jof7121058",
+            "URL": "https://www.mdpi.com/2309-608X/7/12/1058",
+            "author": [
+                {
+                    "family": "Little",
+                    "given": "Jessica S."
+                },
+                {
+                    "family": "Weiss",
+                    "given": "Zoe F."
+                },
+                {
+                    "family": "Hammond",
+                    "given": "Sarah P."
+                }
+            ],
+            "container-title": "Journal of Fungi",
+            "id": "little.etal_2021",
+            "issue": "1212",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "page": "1058",
+            "publisher": "Multidisciplinary",
+            "title": "Invasive fungal infections and targeted therapies in hematological malignancies",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.3390/jof7121058",
+            "URL": "https://www.mdpi.com/2309-608X/7/12/1058",
+            "author": [
+                {
+                    "family": "Little",
+                    "given": "Jessica S."
+                },
+                {
+                    "family": "Weiss",
+                    "given": "Zoe F."
+                },
+                {
+                    "family": "Hammond",
+                    "given": "Sarah P."
+                }
+            ],
+            "container-title": "Journal of Fungi",
+            "id": "little.etal_2021",
+            "issue": "1212",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        12
+                    ]
+                ]
+            },
+            "page": "1058",
+            "publisher": "Multidisciplinary",
+            "title": "Invasive fungal infections and targeted therapies in hematological malignancies",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.1371/journal.ppat.1011845",
+            "ISSN": "1553-7374",
+            "URL": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011845",
+            "author": [
+                {
+                    "family": "Palmucci",
+                    "given": "Julia R."
+                },
+                {
+                    "family": "Messina",
+                    "given": "Julia A."
+                },
+                {
+                    "family": "Tenor",
+                    "given": "Jennifer L."
+                },
+                {
+                    "family": "Perfect",
+                    "given": "John R."
+                }
+            ],
+            "container-title": "PLOS Pathogens",
+            "id": "palmucci.etal_2023",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12
+                    ]
+                ]
+            },
+            "page": "e1011845",
+            "publisher": "Public",
+            "title": "New anticancer therapeutics impact fungal pathobiology, infection dynamics, and outcome",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.3389/fphar.2024.1255918",
+            "author": [
+                {
+                    "family": "Chen",
+                    "given": "Jinhua"
+                },
+                {
+                    "family": "Xu",
+                    "given": "Shijun"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Weijiang"
+                },
+                {
+                    "family": "Sun",
+                    "given": "Cuicui"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Wenzhou"
+                }
+            ],
+            "container-title": "Frontiers in Pharmacology",
+            "id": "chen2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "language": "eng",
+            "note": "PMID: 38584605 PMCID: PMC10997335",
+            "page": "1255918",
+            "title": "Evaluating cardiac disorders associated with triazole antifungal agents based on the US Food and Drug Administration Adverse Event reporting system database",
+            "type": "article-journal",
+            "volume": "15"
+        }
+    ],
+    "project_biblios": []
+}
